@@ -1,0 +1,1614 @@
+[
+  {
+    "text": "bus",
+    "file": "gemini-9e216db8daa98696.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "51d109e3f0ad0942ebe65c6ce5ca74ec98726f5ceb51470b50df8b3bda238e75",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There's a bus at the bus stop.",
+    "file": "gemini-44531ffb4a597328.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "db82a6053f122a4f99e4ef8cbd403ec7fee92dcd0056ce005a0e3d71bde23e49",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "bus stop",
+    "file": "gemini-3802f2f68fb9d1e4.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "e9251c400b2555a3eb5b6913d138486992135e099d09516575639e47c007a0e2",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's go to the bus stop.",
+    "file": "gemini-34fed558a2e7383e.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "8a0e8e8b04d847e92b91e4c7547d3c027a6bb06070a68e70f7d4625486233453",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "car",
+    "file": "gemini-cd2258072ba4ee83.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "4381b69470d0fda43374132d77404d86f9eb91d29bbac95405ee1dd712ae810d",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There's a car in the street.",
+    "file": "gemini-f4e5cb8936559f8f.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "7be65862db02a41e2376a4f30f7e8953e3a4ff3f211defc0b4708f79ab0a0ff0",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "flower",
+    "file": "gemini-3c76e6601e3979c0.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "588ba84ae7b840c44b267ed7179b566b32caeeddc47d02fc72f57abc9b6c8283",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are three flowers in the garden.",
+    "file": "gemini-06115570986fe48b.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "a12767116d9ad18fa26961cbfd583ff972297f31d17ef19432f84324092590db",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "garden",
+    "file": "gemini-4f82a202879ce59b.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "73a5af7a227aa8d2cf2e060ef2c6d0f25e72cc700bf942646cc161580e1ef30a",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are flowers in the garden.",
+    "file": "gemini-827657c3d6c7bc5b.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "0f2e7ab48678e8091396591a7e7b92e3fd43892a017c600c6e9e050770c48ecc",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "yard",
+    "file": "gemini-408d11f277f9754e.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "7023fe14f4ac5944c1073b3e368df3953d72394dabac294cf52e3593ad3d5417",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "lorry",
+    "file": "gemini-9ad7c5f8f3355a49.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "4361c6d08efbe5d90d464ebcc1bad0a59a7b759b8daf39154f647f4b29994317",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There's a big lorry.",
+    "file": "gemini-a32a341249502c14.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "760d99720a6beb3cb69b8f20b3be06738b30717c7fb10ba6706ab676854d4dc2",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "truck",
+    "file": "gemini-e8e64f126a1aae4d.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "9595f8c7790880d8929b9c0f6b423de9642ffaa301dddc978abe23de60e7066f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "motorbike",
+    "file": "gemini-1d7883dddc1736de.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "2a8223ff27d99c551c42560cf2fad4e69218442b700aa6eb5e8b8f0286c6a0d4",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Is there a motorbike?",
+    "file": "gemini-08f2c2581001a28c.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "0aa293031d8ca44cfbbcef345f1ae4784d94a221018158f183e1217a45f28a6b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "motorcycle",
+    "file": "gemini-b88b7cb4c5c5dba5.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "30fce35c4e936fa3b142c1af13bd8547c391b014375575d07131fb308bfa3c68",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "park",
+    "file": "gemini-4f696841cafa55a4.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "171f789329ed82b12b890c88bd847689833a84455045c69aaeb411ef82a2bcf5",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's go to the park.",
+    "file": "gemini-70753957db99c062.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "34ee945907cc1ae16bf754c27ff81db134b1d871d41f2176c55bc42d461c7649",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "shop",
+    "file": "gemini-d02069484bc7bec5.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "d55c97f04b02ff0c01a013e545b89dd330a2e770d3e9db83eb206e49e45f978b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Is there a shop?",
+    "file": "gemini-f291db03c5586eec.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "31c0559592bf9bb9b1c53486ee32c9da5846b19c7fad055ea8f29f27f6506d4f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "store",
+    "file": "gemini-5c927041ab4d30bb.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "224643887cc15241e7c55249b7bb5c8c5fa9ed7dc5e5fcb132fd704f12aca457",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "train",
+    "file": "gemini-07144b761de221af.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "73393187d87f6525da46707244e22e08629f80bda3037beab643d88acc274d26",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's take the train.",
+    "file": "gemini-8e2644f6bbb89bcc.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "a5ac03b387939bb3cc81d3f35edaae0a77477e0547bfcbab8f9e97f1a9b846fe",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "tree",
+    "file": "gemini-7d347531b48f6bda.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "5606b9933dc3783180155254c3471a45998818827b902a81ec2f26d14fea93e6",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are two trees in the park.",
+    "file": "gemini-cdeb77d2341a9959.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "62ff2f1c63eadfa128cefbc02750086a45fc0f3f89d61f39c9ceae5d1e3d061b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "bear",
+    "file": "gemini-6641511e1d1b8141.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "e18f366db9f2995dee43d5aeee9e89c1997de9dee9d9b951c7ef11d2ec9976ee",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There's a bear by the tree.",
+    "file": "gemini-7e9657c952488d5e.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "10bbf6c45a15c010acfdc6c0fb56eb5767faa8b124755b7df5c307073ea4b02e",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "crocodile",
+    "file": "gemini-8d99552714a332c6.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "25904f242050347ad2e7ecda96efc4ef18d9d7d94431545ba28343020a859aa4",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Is there a crocodile in the water?",
+    "file": "gemini-06464c1b24582be5.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "9dcf246d843956bfca5ccef9213787548648a67fdf3f048a1ac145e37012718d",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "elephant",
+    "file": "gemini-f16059d02ecebd62.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "54c1dfaeca90e389963a148cfce27a292a659f2a2ad6beebf85863257379f746",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There's an elephant.",
+    "file": "gemini-830176319a9a15b9.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "f24f0ba4897ccef6d3f0d055c10d2b49267c3a669f7bfcae1e4b865486be6893",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "giraffe",
+    "file": "gemini-69d036f72fb4157a.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "a192cca2f4e511094d75b4f4c35ec2c4166e5c2cf36b96a94ee504ef64dd23fd",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's look at the giraffes.",
+    "file": "gemini-fa16a20e7190bbb1.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "f21da039ab335d763049481e9b04db8941b7a0ef5daebe9bc4b765abc1c402ec",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "hippo",
+    "file": "gemini-4143b17ff7fc9270.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "68950aac9c358e877dc245f0d2cfb67f23de6875f5492d6ce731c4ed502ae8ab",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are two hippos in the water.",
+    "file": "gemini-642cdf5220a6121e.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "c6953b624ef810bb416f211508e9d937e9807d478699b27ef8f72c6884ba697d",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "lizard",
+    "file": "gemini-ce4f7189f0192482.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "87f6224301132039293f04e0d0b6bb4ba08a1471e599d57962b0ac5752943540",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There's a lizard on the rock.",
+    "file": "gemini-b2eb651b6f50770e.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "4fc61b1d856b90a55f2f80def0a6e2327a182652c925529144151b984ba8f01c",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "monkey",
+    "file": "gemini-07b8418afd973956.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "9ff86fca88f3f1102ef9b1115e6bf9619b3b88a94ad4ce5e88a04c47064a14f2",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Are there any monkeys?",
+    "file": "gemini-480501558d12082b.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "729467d69fedf77ca59523e53afbe8193c8f3f78a7e35a0790e49a653883c749",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "snake",
+    "file": "gemini-5e6707d40cb1f00e.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "eeab90b0ce6aa4769bbee1bb203cf257421d0db13ad009b16ebcf4837a6c6674",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There's a snake under the tree.",
+    "file": "gemini-e9867f7e6f242878.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "27c4c33a80617d30afa458c2bfef6b7830ccf2144dd9f921f2e5b5178b30c755",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "tiger",
+    "file": "gemini-577a0861609106c9.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "b7cc30a503e97c4df0f0e96ec746c5f57348430704e1268ed918c216751af5cb",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are two tigers.",
+    "file": "gemini-72723e8fb43ac12b.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "7fcc334e3f3d58c1b05c9d3766b05733b699019e9a5ecc15def79ead8ef628e5",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "zebra",
+    "file": "gemini-ae6cb7cb1f6e09c1.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "1cdb3cab20390e021ba0be7d51d80a0e58dcdfd2584c845bf16ed6f7c8ab6dc9",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are two zebras.",
+    "file": "gemini-81028a7fd39c0446.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "86c26e36c15beb9e5e81b48a4a811082c63735e137a1a544d8bf3e2866c5239c",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "polar bear",
+    "file": "gemini-4909f80b19b12c9f.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "374d22e6d0c887bd36e1ea352e9eadf4dda602ed8d01caac1be51ac523a7e216",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There's a polar bear on the ice.",
+    "file": "gemini-6494afa141dd005a.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "252a1bdb9e99d4fc0c328b198820a0d450e045720c181089880bddc6880ba45f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "zoo",
+    "file": "gemini-a28ad4e0ce712d09.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "771d692b22d267709cc80aa05d00f84e7ac3cb4766c7f47b5f04389a9d719ead",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's go to the zoo.",
+    "file": "gemini-f8d90c3c5cf9b957.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "37585de243e7498c1e2b586383c517244bbebf4d571ee27bd434e03d3d421171",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the bus.",
+    "file": "gemini-9d862e9170dfceef.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "885bf7288ba529118e15987ea5fa482dd852b2253f698b96b49b93996b490c8b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the bus stop.",
+    "file": "gemini-ae6b67b134080a63.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "cd75cc1126f3d233427b3496550d24462f5c4a7b6aaa14e2a18a456e8c9152ad",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the car.",
+    "file": "gemini-a65b83f4d05848d6.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "3d2398fed65a0d3927743bfc7b9e09f9c3eac552fd6a392df75d59d10f5adb8f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the flower.",
+    "file": "gemini-b692de516ddbe86a.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "10c1504763ae4a15822e47497bd30256b6bcf8f2b6a6c6a328c2e390971d0dff",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the garden.",
+    "file": "gemini-e0a40810af687a0b.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "b7db5ee0f5f510650777ae833837ff349925de5b74775d003404aac8d0317b5f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the lorry.",
+    "file": "gemini-8f58c4ddb0d8eb1f.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "0ea2f7d21351a29f9d54185638c0558ddbae28785ebab2f516063721a9f412f0",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the motorbike.",
+    "file": "gemini-a1b5064a0a11a440.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "dc54c1ccbb68b15ae2950bf5e5ca5b17fc1200fd9cf7657068d3cff7f7734b49",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the park.",
+    "file": "gemini-b5fe222422d09c0e.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "d2c2ae739e24edaae071fa335b016d23cfe803a0bc25bd1271b21098e9aabbff",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the shop.",
+    "file": "gemini-14c71063c6018bcc.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "1befdf642ef11857865ee4d0d3d42506eb0ee6cec49d18acbb91190a97b9946d",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the train.",
+    "file": "gemini-b4baf4677997a8ad.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "29c42d0439422fd0dc6771b18a5c11fdbab10871292fef27488247376677bd9e",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the tree.",
+    "file": "gemini-955a5eb7121bcf05.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "819e9a6a1228a4af15df86c3be98a4c469adb8d1585a30786f2fc4a6da49e02f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the bear.",
+    "file": "gemini-e56a2a850d1028ab.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "286e24a5fd6f19859c5f88b47d0c7315e8de8b7df1e00df7f65bc7f4c6b7beba",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the crocodile.",
+    "file": "gemini-f48baf8948ba5e16.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "065020234ca858635cff68e2a052af49ecf60bc252b5cd43544aac69aa88e78d",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the elephant.",
+    "file": "gemini-f6e3564f120dc76d.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "d9a3c6886e3e71537d147a4569b87d1e565962e779ca93e55637ab5ab765a6f1",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the giraffe.",
+    "file": "gemini-46e37fa42ab38b7d.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "4021d2c345674e04284207b34ed79b3b1ffb0b50cdef9d601b11c77321078f27",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the hippo.",
+    "file": "gemini-346ac82d48cca33d.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "7adbdcb352645a11698b4be2cc574b0d97211b76e3e89b04dc79fa2614f88752",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the lizard.",
+    "file": "gemini-11f80974a034b8db.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "6a430bd432cadbca575dea01dc7fda62dd9a6840df3ffb0253a554edd0f95bc0",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the monkey.",
+    "file": "gemini-438c87060b032ca6.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "91b359bb8efeeb9e04a3f3b1f1527a0a53aba3bc4f06f2dfb2df451f7863993a",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the snake.",
+    "file": "gemini-cb86874848600c67.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "801571a15c2438fc61804a4515f4e0f75f3104bae5ea9b794f66ccb4b0f7afdc",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the tiger.",
+    "file": "gemini-4288ebd98cf86ed1.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "052a75ba2fe5474ee483f833e33df6bdd48e89b13a3c500adf39dc1c9e6e2af7",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the zebra.",
+    "file": "gemini-858280f7260be870.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "946c2eab812905a744796314346a165f4861dffeaa461dfcc6a62cbe80c00a8b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the polar bear.",
+    "file": "gemini-0374e21ebd69cdbe.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "5b65195489af3140bd3105b103a8181f30eacc3efc6c2e094aa5a8f4f8df16f6",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find the zoo.",
+    "file": "gemini-05e8d3cca7615625.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "f70f06eeea1eb4cdedd13e1f35e291f55e135d1a88edbd099a0f93ea2033aab3",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "cake",
+    "file": "gemini-6384377ce269d635.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "d7891699635ecaca4266e6f33688540427ad11262f49d3f77d001e46127e86e6",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "plane",
+    "file": "gemini-762b646942c72f30.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "05a17570af1a69ffb48c9edddbbbdeaa69ed23c17eefbd76584af4153ddf55ed",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "cat",
+    "file": "gemini-56ca43dd210b5814.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "70919ae73957d394fcfd61a4c0a83e7f6a0eede6ca922764c6ff7b96468313f1",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "hat",
+    "file": "gemini-2d78a0f35b893946.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "39298b42c774582358fe7614cf83dc9156b3d68f34c98997d1955fe7b872f3b7",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There aren't any zebras.",
+    "file": "gemini-5a9cd839603baa99.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "061bbcf6a4c680f4b5d764a73a3d2f6f7e0e33420da9943bb2ebe4ed85c9f0a0",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There's a zebra.",
+    "file": "gemini-2bc9080338a9a227.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "11f8d526f0915b6387e0bd01f3ab348aa7607840ba882dada37098e85f2b5122",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are three zebras.",
+    "file": "gemini-36124edfa665c725.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "6dcd36b4f02d9da8c14bd96f80913b517a5ecd9d3cde1e3c4c935c5aa2032c95",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There aren't any tigers.",
+    "file": "gemini-66e5516f35ad57a4.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "2cf2f9861a4e7da86abba2dc056859613038cf8c3ac2b21eb7ea9fde3b67575a",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There's a tiger.",
+    "file": "gemini-bb88073be14e1701.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "c3c1c7e2ac6aa41bd9e680c3886fe341494512ce8d5beb228053a975ef71ecb3",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are three tigers.",
+    "file": "gemini-21a01febda13bff0.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "b61c2c62544120717a080be330245ce007e5a587d0abba5a3b9f2a797379f370",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There aren't any giraffes.",
+    "file": "gemini-16157b53414e22aa.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "8b2bc9604b69e43bac31672039a8bc7f4c90aae8aef986b823d1d9bc8723643d",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There's a giraffe.",
+    "file": "gemini-94cc9d456363767a.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "6108abdd045ff6bb79f3977e844abba6fbb7a54ed2da0988a7d78fe001d2252f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are two giraffes.",
+    "file": "gemini-60e9d34bacae8067.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "10702624b69645ceb7666639b2f162a940e8bdcaec6080d0c71dfdaf150fa74d",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are three giraffes.",
+    "file": "gemini-c3754510a2870138.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "2f7471e040e790184492474611432e6c16bc798e2c8739d7bd037520c0940089",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There aren't any elephants.",
+    "file": "gemini-0ca1cf191f22da22.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "7b64bc6a307f3b3966c7a3d19aaed8c77b258a20fea8f9e2b2f9053631be2405",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are two elephants.",
+    "file": "gemini-344bd6a0ecc3b11c.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "b3fa68f1a74499e71fb8f5031d4f9583d0628fa713f9a2f96d1278524466c699",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are three elephants.",
+    "file": "gemini-fc999686318a8233.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "82342ea5fb2326376ebde80ce3f5601a544b6db0aaea9c741d37d6405eb07b9f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's look at the zebra.",
+    "file": "gemini-12e5e5ca6bc785d6.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "664d005ba99434daf3742cf6dab2d97d35c66039c0259c87c3d92a5bc40f5d26",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's look at the zebras.",
+    "file": "gemini-fa913c08cb9b86eb.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "f719e033b7cd40c2fde6ca3e2ce9f23dac75e4e8f920ef7c0e710eab6f7cd6ea",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's look at the tiger.",
+    "file": "gemini-b2f2357624ea2902.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "b79e8925d42a1652656ff36cb348a66c42d1f179fb490ef889d1726d20760b8c",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's look at the tigers.",
+    "file": "gemini-2e41021174845f3a.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "fe688e4d5819816ceb72e0a29a08fc04ad22869f5d4e36696c22e2112bf00a16",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's look at the giraffe.",
+    "file": "gemini-ed0fbd5c31f397b8.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "71a8e6a2b5a743d8d4084643dfb0f9b93269b143f2900e2191fc58f44af7a6ba",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's look at the elephant.",
+    "file": "gemini-6a23fc61e11b17b6.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "b1e08c3e81dae1ee75ebf87131c503de57dc46f1eb63c398913fbdb74705c86a",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's look at the elephants.",
+    "file": "gemini-7bdfabdf4f4ebd36.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "df8bfe2cd9b76967d6bb07ed901c7d00111fb989d5c4926cd0b583fd60869e0b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's go to the garden.",
+    "file": "gemini-c1f1110fa817c8f1.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "ad31b27f2b1403632469f9e3d1e0e13e3ccae0215eeb767d3760334642dda437",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's go to the shop.",
+    "file": "gemini-2ab2415146153474.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "9b8886e9a566ad7006aae84fd6e2b72ed436a19d28d1dc603e6e0885d0d9ed37",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "That's a good idea.",
+    "file": "gemini-7a8213a9973010e9.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "804351910e20213a756813fca0727b71a76d28e214cc38a5281a0ff81061d993",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Is there an elephant?",
+    "file": "gemini-7808087b0fa531b1.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "f6c38576d1c9188ff9ac47f61a43cb6049bb8c2d35120de48ff41f6da9eb9418",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Yes, there is.",
+    "file": "gemini-25bbf35de8dac457.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "fa367c81773e1b76c8258252dfbafb80766446c1681b4c7cac660bad80e23189",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "No, there isn't.",
+    "file": "gemini-05796ea60b127dd2.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "d9a7921bd5f39f4c7f139c26f95e945610ccb0f02b5c6e4fdbc65ed34fada76e",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "No, there aren't.",
+    "file": "gemini-bbf056e7bfac545a.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "625e975db3fe126b040ead632dbd1d232d3f9f0ef5aaac4cc593957803f0700f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Yes, there are.",
+    "file": "gemini-9bfb158857e0be69.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "23325b7de31c7fd6caf8aa79e76bb01390e474aba98739fa10d74d73a32f8631",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Are there any hippos?",
+    "file": "gemini-e0eda9d11ce6efbc.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "8c88cd6f1e91540c72779b0d7c88c69b3b1ea5f0aff3b2b74a95624681cdce82",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Is there a crocodile?",
+    "file": "gemini-31cad1c031241125.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "3943c25c7c3b35cf4047e1f323b49df58f96eb61bdd3bb028ec5a3c6b88da999",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "grassland",
+    "file": "gemini-5b166bc391b579e1.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "f4f7f2ee2ba7744c0e37eb21e77d2291b11f6dff22493719a3939c95bc6662eb",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Look for the giraffe in the grassland.",
+    "file": "gemini-212ac93e0e431984.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "ac63765dfaa9a280ecc076dfece83351cf5ac57f45c95becc8c0f8b5976ec1f0",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "jungle",
+    "file": "gemini-ed9251e1fc07439a.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "d4d367376b7ddabada9f45befb4977d679aca08b313f897189c9ab12539ab736",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's explore the jungle.",
+    "file": "gemini-7af92433b63322df.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "c8a900de900a677f3b832cef3611207248b4afe3e70b38b10f2c7b75d9827c28",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "ocean",
+    "file": "gemini-114d90154776b70a.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "873d0b7c76f932224e36dac81e43ce3f7b7666255579dd3b573d7fbec24a9b31",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's explore the ocean.",
+    "file": "gemini-5d9515b1d45e0595.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "d55cbef6395f69c765cfde9e8b865c21426d8aaf25cde45f657c3ba2422a770e",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "ice",
+    "file": "gemini-85ce4ca6ac8eb1f4.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "6cc3347064edc0958edc41c452c2c20d77336f96047a81afcedf65d35c4c2903",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Look for the polar bear on the ice.",
+    "file": "gemini-5284408c92928f90.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "46785924867e5d9ad0eb55e5ea8827dc2fd378f04df4cc4767034f091ea86944",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find two zebras.",
+    "file": "gemini-8296dbac29380223.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "c8f820cc34a200835036c73d52214f9b5c39a5945bd11a91a81d4e614a0cc974",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find a giraffe.",
+    "file": "gemini-a777f1c34c28c524.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "1b67eac16a0008b217d6b322f72ae343c72a4967792de0ad618ea625721802be",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Find three tigers.",
+    "file": "gemini-9188f22d217b0fcf.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "a8e8a2fc6426aca938b98fd5e676e780f22e33a2ccc684da8173f6f8c78adbdf",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "There are two zebras. There aren't any tigers here.",
+    "file": "gemini-3eb7c3193c0c6243.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "36265bbad4dcbe171db3628dffd0878e135a9df213cedf6c6cef8981572f6327",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "Let's look at the giraffe. That's a good idea.",
+    "file": "gemini-86447a9eb5abd39c.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "898a3d43cc3cdeb2ba2bdc13bd49c8465c13868ece87c59594782c0657b3e84b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "What a lovely day!",
+    "file": "gemini-69172bc3feb3bc1b.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "28905e832fef019ccf78afec9d25dc129f2be577ccbe6fd4a02ad2a7d4b785b4",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "I feel happy.",
+    "file": "gemini-4eace39e5a4ba61e.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "d54a0c680961ea18a2ac54e6c31319f26db8603d18dfa7c244d7ba89c38251fc",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "I feel tired.",
+    "file": "gemini-a83ec54593e33c81.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-tts",
+    "sha256": "548261b61f6f58d0468115457535fdff88f0ba30aac9db0477c0c1170594c49a",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "text": "I feel excited.",
+    "file": "gemini-259f89627c5c10c2.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "sha256": "1758dc670f9916ad6f2c1a46c71d4457675b7276adc1b56f01c5d73ccbec8769",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  }
+]

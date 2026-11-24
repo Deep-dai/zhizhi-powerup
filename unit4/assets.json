@@ -1,0 +1,65 @@
+{
+  "hero": {
+    "file": "hero.png",
+    "width": 1536,
+    "height": 1024,
+    "cols": 1,
+    "rows": 1
+  },
+  "eevee": {
+    "file": "eevee.png",
+    "width": 1536,
+    "height": 1024,
+    "cols": 3,
+    "rows": 2
+  },
+  "foodA": {
+    "file": "foodA.png",
+    "width": 1983,
+    "height": 793,
+    "cols": 5,
+    "rows": 2
+  },
+  "foodB": {
+    "file": "foodB.png",
+    "width": 1254,
+    "height": 1254,
+    "cols": 3,
+    "rows": 3
+  },
+  "ingredients": {
+    "file": "ingredients.png",
+    "width": 1254,
+    "height": 1254,
+    "cols": 3,
+    "rows": 3
+  },
+  "preferences": {
+    "file": "preferences.png",
+    "width": 1536,
+    "height": 1024,
+    "cols": 2,
+    "rows": 2
+  },
+  "dialogues": {
+    "file": "dialogues.png",
+    "width": 1536,
+    "height": 1024,
+    "cols": 2,
+    "rows": 2
+  },
+  "recipe": {
+    "file": "recipe.png",
+    "width": 1536,
+    "height": 1024,
+    "cols": 3,
+    "rows": 2
+  },
+  "ending": {
+    "file": "ending.png",
+    "width": 1536,
+    "height": 1024,
+    "cols": 1,
+    "rows": 1
+  }
+}

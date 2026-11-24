@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "1670550ad67fb7e9f9",
+    "file": "1670550ad67fb7e9f9.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "6.580667"
+  },
+  {
+    "id": "52ecbbf243f739972f",
+    "file": "52ecbbf243f739972f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "7.101875"
+  },
+  {
+    "id": "7acdc0464d9d5a4c74",
+    "file": "7acdc0464d9d5a4c74.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "7.307458"
+  },
+  {
+    "id": "b2e4ab4a5ec0340604",
+    "file": "b2e4ab4a5ec0340604.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "7.513958"
+  },
+  {
+    "id": "6f2a0dc8dca9d9e1a8",
+    "file": "6f2a0dc8dca9d9e1a8.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.247083"
+  },
+  {
+    "id": "40b4a01082e7b13739",
+    "file": "40b4a01082e7b13739.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "6.398500"
+  },
+  {
+    "id": "0951da8336a99e373d",
+    "file": "0951da8336a99e373d.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.253333"
+  },
+  {
+    "id": "5c41b1ef29cc6cd486",
+    "file": "5c41b1ef29cc6cd486.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "6.209792"
+  },
+  {
+    "id": "b4ca8a82af8ee270bd",
+    "file": "b4ca8a82af8ee270bd.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.990500"
+  },
+  {
+    "id": "c41adbde47bac26d28",
+    "file": "c41adbde47bac26d28.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "6.432000"
+  },
+  {
+    "id": "9356b59985e76a4394",
+    "file": "9356b59985e76a4394.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "6.581833"
+  },
+  {
+    "id": "7df655702191306d8e",
+    "file": "7df655702191306d8e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.062667"
+  },
+  {
+    "id": "39c411cf00dd4bc21f",
+    "file": "39c411cf00dd4bc21f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.904667"
+  },
+  {
+    "id": "749cc1ea7aba0fc157",
+    "file": "749cc1ea7aba0fc157.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.946125"
+  },
+  {
+    "id": "545a65479b9c216353",
+    "file": "545a65479b9c216353.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.019250"
+  },
+  {
+    "id": "50426c09fc8f9f4799",
+    "file": "50426c09fc8f9f4799.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.190375"
+  },
+  {
+    "id": "b2a0869b9fa011150c",
+    "file": "b2a0869b9fa011150c.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.870625"
+  },
+  {
+    "id": "ce07bd69ef34da2b2c",
+    "file": "ce07bd69ef34da2b2c.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.917167"
+  },
+  {
+    "id": "b1b00c6499b805ffeb",
+    "file": "b1b00c6499b805ffeb.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.069750"
+  },
+  {
+    "id": "9ba2d1614041ef5a9f",
+    "file": "9ba2d1614041ef5a9f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.137500"
+  },
+  {
+    "id": "a549b4e7b8beeb2a81",
+    "file": "a549b4e7b8beeb2a81.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.926458"
+  },
+  {
+    "id": "adf97e429c57dda58b",
+    "file": "adf97e429c57dda58b.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "5.782583"
+  },
+  {
+    "id": "758a62f822a7c47f1b",
+    "file": "758a62f822a7c47f1b.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "7.331042"
+  },
+  {
+    "id": "14393caf7bc4ae447a",
+    "file": "14393caf7bc4ae447a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "7.121917"
+  },
+  {
+    "id": "1b839fc7f3adc5cdbd",
+    "file": "1b839fc7f3adc5cdbd.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.897958"
+  },
+  {
+    "id": "61bb088b1033d9081a",
+    "file": "61bb088b1033d9081a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.738042"
+  },
+  {
+    "id": "6f67bb3fa8de2c24a5",
+    "file": "6f67bb3fa8de2c24a5.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.115542"
+  },
+  {
+    "id": "f315be58a62d839c97",
+    "file": "f315be58a62d839c97.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.515042"
+  },
+  {
+    "id": "717b794fbc7abea88a",
+    "file": "717b794fbc7abea88a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.333083"
+  },
+  {
+    "id": "8eade44793934ec34c",
+    "file": "8eade44793934ec34c.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.600917"
+  },
+  {
+    "id": "3ec4b203537b0ddf41",
+    "file": "3ec4b203537b0ddf41.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.270042"
+  },
+  {
+    "id": "ff96673957da963513",
+    "file": "ff96673957da963513.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.177958"
+  },
+  {
+    "id": "6126edfd650341d70f",
+    "file": "6126edfd650341d70f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.333708"
+  },
+  {
+    "id": "9df4aa8e7d294de354",
+    "file": "9df4aa8e7d294de354.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.504000"
+  },
+  {
+    "id": "a3f98ffbbac8270ba1",
+    "file": "a3f98ffbbac8270ba1.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.261625"
+  },
+  {
+    "id": "94a9b630afa2e686cf",
+    "file": "94a9b630afa2e686cf.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.344000"
+  },
+  {
+    "id": "729f3e26bb9414e04f",
+    "file": "729f3e26bb9414e04f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.769417"
+  },
+  {
+    "id": "93be90e70c0a5083b6",
+    "file": "93be90e70c0a5083b6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.506125"
+  },
+  {
+    "id": "ed45684755ea6a37d9",
+    "file": "ed45684755ea6a37d9.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.690125"
+  },
+  {
+    "id": "9fc7fb11f9dd84156d",
+    "file": "9fc7fb11f9dd84156d.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.979917"
+  },
+  {
+    "id": "fc8d4808bc91c323a4",
+    "file": "fc8d4808bc91c323a4.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.700417"
+  },
+  {
+    "id": "57cae40148dae1d2d2",
+    "file": "57cae40148dae1d2d2.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.916417"
+  },
+  {
+    "id": "cdfb121595aab1cc6d",
+    "file": "cdfb121595aab1cc6d.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.102458"
+  },
+  {
+    "id": "cfabe3ef028c5dff38",
+    "file": "cfabe3ef028c5dff38.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.394417"
+  },
+  {
+    "id": "0741a3a40fc90412f4",
+    "file": "0741a3a40fc90412f4.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.129958"
+  },
+  {
+    "id": "952477bf5533f0779c",
+    "file": "952477bf5533f0779c.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.967792"
+  },
+  {
+    "id": "a7a7aa296b1b769caa",
+    "file": "a7a7aa296b1b769caa.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.114792"
+  },
+  {
+    "id": "ed1966c7416a237a8b",
+    "file": "ed1966c7416a237a8b.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.377000"
+  },
+  {
+    "id": "8b1770960a2bcbf7d8",
+    "file": "8b1770960a2bcbf7d8.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.883333"
+  },
+  {
+    "id": "e4c8f0d557f565a10f",
+    "file": "e4c8f0d557f565a10f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.785000"
+  },
+  {
+    "id": "c89016abd7909dd489",
+    "file": "c89016abd7909dd489.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.976000"
+  },
+  {
+    "id": "03dd00f2860754c46e",
+    "file": "03dd00f2860754c46e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.312208"
+  },
+  {
+    "id": "048e56013661ab54f6",
+    "file": "048e56013661ab54f6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.779083"
+  },
+  {
+    "id": "859b510490d56545b5",
+    "file": "859b510490d56545b5.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.990375"
+  },
+  {
+    "id": "9451a14da4eacefbdf",
+    "file": "9451a14da4eacefbdf.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.274875"
+  },
+  {
+    "id": "78422e8572ab7a5be7",
+    "file": "78422e8572ab7a5be7.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.378000"
+  },
+  {
+    "id": "12ef62b1b045cf2511",
+    "file": "12ef62b1b045cf2511.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.656417"
+  },
+  {
+    "id": "f4246fc2fa0822cb17",
+    "file": "f4246fc2fa0822cb17.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.917792"
+  },
+  {
+    "id": "e3ce24e3bf25b4d8fc",
+    "file": "e3ce24e3bf25b4d8fc.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.171542"
+  },
+  {
+    "id": "68d48aa42d4dd8105a",
+    "file": "68d48aa42d4dd8105a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.673958"
+  },
+  {
+    "id": "43188a219d621e9666",
+    "file": "43188a219d621e9666.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.802042"
+  },
+  {
+    "id": "13fd47356149b308cd",
+    "file": "13fd47356149b308cd.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "5.394708"
+  },
+  {
+    "id": "d2fa200a51672a63f8",
+    "file": "d2fa200a51672a63f8.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.834917"
+  },
+  {
+    "id": "66bb2566e8bfd08951",
+    "file": "66bb2566e8bfd08951.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.136750"
+  },
+  {
+    "id": "874726dbedc854b25b",
+    "file": "874726dbedc854b25b.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.102000"
+  },
+  {
+    "id": "29b108ed97d75c7812",
+    "file": "29b108ed97d75c7812.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.711083"
+  },
+  {
+    "id": "057b7ba7fa7840f705",
+    "file": "057b7ba7fa7840f705.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.957917"
+  },
+  {
+    "id": "ff52ba52b0980d6ba1",
+    "file": "ff52ba52b0980d6ba1.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.197000"
+  },
+  {
+    "id": "6d52b5433ed831de9a",
+    "file": "6d52b5433ed831de9a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.209917"
+  },
+  {
+    "id": "5776ff811d7cd95827",
+    "file": "5776ff811d7cd95827.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.935375"
+  },
+  {
+    "id": "47d21471c52b8f2df9",
+    "file": "47d21471c52b8f2df9.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.159792"
+  },
+  {
+    "id": "f52b8f40c565bb3228",
+    "file": "f52b8f40c565bb3228.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.407042"
+  },
+  {
+    "id": "4312cfbcdb436f0aa6",
+    "file": "4312cfbcdb436f0aa6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.973417"
+  },
+  {
+    "id": "6d046297ad5d191ed5",
+    "file": "6d046297ad5d191ed5.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.823583"
+  },
+  {
+    "id": "af522cfc2c7e24df7a",
+    "file": "af522cfc2c7e24df7a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.801542"
+  },
+  {
+    "id": "1a4afd58db712e3c67",
+    "file": "1a4afd58db712e3c67.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.898583"
+  },
+  {
+    "id": "5ba8213dfba60a5d92",
+    "file": "5ba8213dfba60a5d92.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.823583"
+  },
+  {
+    "id": "49b079a27ae4b202f2",
+    "file": "49b079a27ae4b202f2.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.062250"
+  },
+  {
+    "id": "3cec21481017fb10cd",
+    "file": "3cec21481017fb10cd.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.801667"
+  },
+  {
+    "id": "f11cbad663f095131b",
+    "file": "f11cbad663f095131b.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.665167"
+  },
+  {
+    "id": "6a5ec96787c3f2327a",
+    "file": "6a5ec96787c3f2327a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.885042"
+  },
+  {
+    "id": "e0f0ede3a9aec1fb89",
+    "file": "e0f0ede3a9aec1fb89.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.740125"
+  },
+  {
+    "id": "5780560a5e2fd5866f",
+    "file": "5780560a5e2fd5866f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.877792"
+  },
+  {
+    "id": "08df6205d8fa083b5e",
+    "file": "08df6205d8fa083b5e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.740000"
+  },
+  {
+    "id": "53792212d05faef4b9",
+    "file": "53792212d05faef4b9.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.735250"
+  },
+  {
+    "id": "60f4d1f841e902f863",
+    "file": "60f4d1f841e902f863.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.740167"
+  },
+  {
+    "id": "566a9006ef319d6bf5",
+    "file": "566a9006ef319d6bf5.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.966500"
+  },
+  {
+    "id": "b4c29f188a530ed10e",
+    "file": "b4c29f188a530ed10e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.645000"
+  },
+  {
+    "id": "4f014522f6816b5cfc",
+    "file": "4f014522f6816b5cfc.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.860542"
+  },
+  {
+    "id": "351a783ae64b4508ff",
+    "file": "351a783ae64b4508ff.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.069958"
+  },
+  {
+    "id": "67fc784cddb7004de4",
+    "file": "67fc784cddb7004de4.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.796000"
+  },
+  {
+    "id": "59572a72b9f742861e",
+    "file": "59572a72b9f742861e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.521750"
+  },
+  {
+    "id": "ffbdfe69f73fed73e2",
+    "file": "ffbdfe69f73fed73e2.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.955792"
+  },
+  {
+    "id": "7a8f804323c11e0f99",
+    "file": "7a8f804323c11e0f99.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.057958"
+  },
+  {
+    "id": "d0fcd690f1655152ed",
+    "file": "d0fcd690f1655152ed.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.670000"
+  },
+  {
+    "id": "0e3a841f8cfbd75371",
+    "file": "0e3a841f8cfbd75371.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.660042"
+  },
+  {
+    "id": "7becc47ea5a5b00fb5",
+    "file": "7becc47ea5a5b00fb5.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.585000"
+  },
+  {
+    "id": "a525a443426a4a1e99",
+    "file": "a525a443426a4a1e99.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.022667"
+  },
+  {
+    "id": "71c9b613492af74fcc",
+    "file": "71c9b613492af74fcc.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.173750"
+  },
+  {
+    "id": "16c02a66daf02b4946",
+    "file": "16c02a66daf02b4946.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.841958"
+  },
+  {
+    "id": "00552dd79665009489",
+    "file": "00552dd79665009489.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.053042"
+  },
+  {
+    "id": "202ac53f72bc907868",
+    "file": "202ac53f72bc907868.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.991958"
+  },
+  {
+    "id": "ba7c2342871839f8da",
+    "file": "ba7c2342871839f8da.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.251708"
+  },
+  {
+    "id": "7953c852507c2bf80f",
+    "file": "7953c852507c2bf80f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.015125"
+  },
+  {
+    "id": "a901d38fa8e0b41957",
+    "file": "a901d38fa8e0b41957.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.227792"
+  },
+  {
+    "id": "6526e7967d5089984a",
+    "file": "6526e7967d5089984a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.002083"
+  },
+  {
+    "id": "c06f4a3cb0e84629f2",
+    "file": "c06f4a3cb0e84629f2.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.813000"
+  },
+  {
+    "id": "060f96a83f722addbe",
+    "file": "060f96a83f722addbe.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.064000"
+  },
+  {
+    "id": "8a1297d3513f6d3a2c",
+    "file": "8a1297d3513f6d3a2c.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.591708"
+  },
+  {
+    "id": "760fb775241c6b07da",
+    "file": "760fb775241c6b07da.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.745167"
+  },
+  {
+    "id": "4ddf1c890dafd34b60",
+    "file": "4ddf1c890dafd34b60.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.876333"
+  },
+  {
+    "id": "e5ed07a1aac269097c",
+    "file": "e5ed07a1aac269097c.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.226417"
+  },
+  {
+    "id": "d2cf60a4ea9706cb88",
+    "file": "d2cf60a4ea9706cb88.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.777958"
+  },
+  {
+    "id": "ef0d4a3f24eceba6a1",
+    "file": "ef0d4a3f24eceba6a1.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.201958"
+  },
+  {
+    "id": "f70b81635d32d9f9b9",
+    "file": "f70b81635d32d9f9b9.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.676500"
+  },
+  {
+    "id": "781b849d143057704e",
+    "file": "781b849d143057704e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.359958"
+  },
+  {
+    "id": "89d67cce1d54fc67a7",
+    "file": "89d67cce1d54fc67a7.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.422750"
+  },
+  {
+    "id": "c1d2e2924febe5a9ee",
+    "file": "c1d2e2924febe5a9ee.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.198458"
+  },
+  {
+    "id": "50d491887e3fe137a3",
+    "file": "50d491887e3fe137a3.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.979458"
+  },
+  {
+    "id": "cd430533f2591be25b",
+    "file": "cd430533f2591be25b.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.022000"
+  },
+  {
+    "id": "005bca3e5dbc2dcf46",
+    "file": "005bca3e5dbc2dcf46.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.068833"
+  },
+  {
+    "id": "1deab79f5d5da97c7e",
+    "file": "1deab79f5d5da97c7e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.185958"
+  },
+  {
+    "id": "98c860a89bdb65b239",
+    "file": "98c860a89bdb65b239.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.024750"
+  },
+  {
+    "id": "eebc4a8d1b9dcd61d7",
+    "file": "eebc4a8d1b9dcd61d7.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.124000"
+  },
+  {
+    "id": "92fca3c0cf81cce4f7",
+    "file": "92fca3c0cf81cce4f7.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.236250"
+  },
+  {
+    "id": "896aa14e94c23d36dc",
+    "file": "896aa14e94c23d36dc.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.335958"
+  },
+  {
+    "id": "2f94b12da1c5a7f9dd",
+    "file": "2f94b12da1c5a7f9dd.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.492000"
+  },
+  {
+    "id": "58327c36430de760a8",
+    "file": "58327c36430de760a8.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.580042"
+  },
+  {
+    "id": "a1771f24e5d4de8eab",
+    "file": "a1771f24e5d4de8eab.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.556000"
+  },
+  {
+    "id": "056a1cd4ea0d61536d",
+    "file": "056a1cd4ea0d61536d.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.637583"
+  },
+  {
+    "id": "0db3f56e224f564e2e",
+    "file": "0db3f56e224f564e2e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.609417"
+  },
+  {
+    "id": "bed65b9c90bc3ccbe0",
+    "file": "bed65b9c90bc3ccbe0.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.680917"
+  },
+  {
+    "id": "3b227c1d05c86e4270",
+    "file": "3b227c1d05c86e4270.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.527667"
+  },
+  {
+    "id": "031d3d1008f56829b6",
+    "file": "031d3d1008f56829b6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.582625"
+  },
+  {
+    "id": "4311562492e45b7dd6",
+    "file": "4311562492e45b7dd6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.524792"
+  },
+  {
+    "id": "e032ffaebc007d8b57",
+    "file": "e032ffaebc007d8b57.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.729708"
+  },
+  {
+    "id": "461be7689c8c886e44",
+    "file": "461be7689c8c886e44.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.649625"
+  },
+  {
+    "id": "ac7700da253301a6f8",
+    "file": "ac7700da253301a6f8.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.493542"
+  },
+  {
+    "id": "f9823cbb37f7376364",
+    "file": "f9823cbb37f7376364.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.643750"
+  },
+  {
+    "id": "bc10f1b71bf9e20305",
+    "file": "bc10f1b71bf9e20305.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.715958"
+  },
+  {
+    "id": "af319776f85d3ef1dd",
+    "file": "af319776f85d3ef1dd.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.683667"
+  },
+  {
+    "id": "c23a497f36720c8adc",
+    "file": "c23a497f36720c8adc.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.752958"
+  },
+  {
+    "id": "791886f7373fd45589",
+    "file": "791886f7373fd45589.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.742333"
+  },
+  {
+    "id": "fd95ee124f3f0b0126",
+    "file": "fd95ee124f3f0b0126.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.768708"
+  },
+  {
+    "id": "6ce40eee0b86c75986",
+    "file": "6ce40eee0b86c75986.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.651500"
+  },
+  {
+    "id": "f7ddd99d1a82d41da1",
+    "file": "f7ddd99d1a82d41da1.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.690417"
+  },
+  {
+    "id": "e02c2fd323b226d4a9",
+    "file": "e02c2fd323b226d4a9.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.659375"
+  },
+  {
+    "id": "7e2b2a2a3a918e8421",
+    "file": "7e2b2a2a3a918e8421.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.841250"
+  },
+  {
+    "id": "26c10dc42efac59d33",
+    "file": "26c10dc42efac59d33.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.763458"
+  },
+  {
+    "id": "5390e317236564a11e",
+    "file": "5390e317236564a11e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.457042"
+  },
+  {
+    "id": "eb919542c6dc01a72f",
+    "file": "eb919542c6dc01a72f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.593958"
+  },
+  {
+    "id": "7911cb4b76726d5cbe",
+    "file": "7911cb4b76726d5cbe.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.662500"
+  },
+  {
+    "id": "d859d818e1ca1ce2e6",
+    "file": "d859d818e1ca1ce2e6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.654792"
+  },
+  {
+    "id": "98061cac4c8ba5b5be",
+    "file": "98061cac4c8ba5b5be.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.717167"
+  },
+  {
+    "id": "6e98efda468f02155f",
+    "file": "6e98efda468f02155f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.684958"
+  },
+  {
+    "id": "0e6fc1af58796bc31d",
+    "file": "0e6fc1af58796bc31d.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.717500"
+  },
+  {
+    "id": "1deb2af25eacbce6e6",
+    "file": "1deb2af25eacbce6e6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.623958"
+  },
+  {
+    "id": "1b7f3fe2eb8c0cb4d1",
+    "file": "1b7f3fe2eb8c0cb4d1.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.678208"
+  },
+  {
+    "id": "25d679fda77786b3e0",
+    "file": "25d679fda77786b3e0.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.585042"
+  },
+  {
+    "id": "a5fef289163dc6cfaf",
+    "file": "a5fef289163dc6cfaf.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.790958"
+  },
+  {
+    "id": "c1f327ddeb5ba4b326",
+    "file": "c1f327ddeb5ba4b326.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.726458"
+  },
+  {
+    "id": "ed16d4421465a3b382",
+    "file": "ed16d4421465a3b382.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.371542"
+  },
+  {
+    "id": "e54c5f96c5066238c0",
+    "file": "e54c5f96c5066238c0.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.510667"
+  },
+  {
+    "id": "2b5314df85a0e3a78b",
+    "file": "2b5314df85a0e3a78b.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.567333"
+  },
+  {
+    "id": "ac99be8074082dbeda",
+    "file": "ac99be8074082dbeda.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.545958"
+  },
+  {
+    "id": "3f7ebcc353d695bd55",
+    "file": "3f7ebcc353d695bd55.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.609958"
+  },
+  {
+    "id": "b57b6872471a56f59b",
+    "file": "b57b6872471a56f59b.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.605917"
+  },
+  {
+    "id": "b7f2c687c800c5694a",
+    "file": "b7f2c687c800c5694a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.659750"
+  },
+  {
+    "id": "a47bda25201078bea6",
+    "file": "a47bda25201078bea6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.510417"
+  },
+  {
+    "id": "cf9c03b437ac2afbb3",
+    "file": "cf9c03b437ac2afbb3.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.566250"
+  },
+  {
+    "id": "e52bb79171a21bac27",
+    "file": "e52bb79171a21bac27.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.522583"
+  },
+  {
+    "id": "a61cbc4a034c5d7fe5",
+    "file": "a61cbc4a034c5d7fe5.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.735542"
+  },
+  {
+    "id": "e4b97c9aa3d6038a21",
+    "file": "e4b97c9aa3d6038a21.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.611250"
+  },
+  {
+    "id": "dc050ec65c1178fe76",
+    "file": "dc050ec65c1178fe76.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.411792"
+  },
+  {
+    "id": "b54ae1a7e366a4a23e",
+    "file": "b54ae1a7e366a4a23e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.511083"
+  },
+  {
+    "id": "22d9104f30acabc47b",
+    "file": "22d9104f30acabc47b.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.580958"
+  },
+  {
+    "id": "590285f28898124db8",
+    "file": "590285f28898124db8.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.558792"
+  },
+  {
+    "id": "70f24073ad3129f6b2",
+    "file": "70f24073ad3129f6b2.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.627167"
+  },
+  {
+    "id": "6a43d15918807677b4",
+    "file": "6a43d15918807677b4.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.604375"
+  },
+  {
+    "id": "eef7d4d192fa6e520e",
+    "file": "eef7d4d192fa6e520e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.675167"
+  },
+  {
+    "id": "f04f41fed4fac20b0e",
+    "file": "f04f41fed4fac20b0e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.541958"
+  },
+  {
+    "id": "efb7f33443c73f9661",
+    "file": "efb7f33443c73f9661.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.595083"
+  },
+  {
+    "id": "9770350b2b350fef1d",
+    "file": "9770350b2b350fef1d.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.539833"
+  },
+  {
+    "id": "7cd81ed544f1ffd4da",
+    "file": "7cd81ed544f1ffd4da.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.733542"
+  },
+  {
+    "id": "30fab9acd9d94decd4",
+    "file": "30fab9acd9d94decd4.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.643750"
+  },
+  {
+    "id": "21951b78b6f8dd0710",
+    "file": "21951b78b6f8dd0710.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.292625"
+  },
+  {
+    "id": "f78b7e61aa20ad3a29",
+    "file": "f78b7e61aa20ad3a29.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.418750"
+  },
+  {
+    "id": "48ba7440a615141720",
+    "file": "48ba7440a615141720.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.501167"
+  },
+  {
+    "id": "dc7c840f5b76b4518c",
+    "file": "dc7c840f5b76b4518c.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.469375"
+  },
+  {
+    "id": "766b7ce05c2c7c9dcb",
+    "file": "766b7ce05c2c7c9dcb.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.547750"
+  },
+  {
+    "id": "89af5e10ea594532f6",
+    "file": "89af5e10ea594532f6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.526042"
+  },
+  {
+    "id": "d75ccc0c0d4d1c9bb9",
+    "file": "d75ccc0c0d4d1c9bb9.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.578250"
+  },
+  {
+    "id": "703ee143d6d84d7fe3",
+    "file": "703ee143d6d84d7fe3.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.443000"
+  },
+  {
+    "id": "32e52b3c4df5131dad",
+    "file": "32e52b3c4df5131dad.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.493583"
+  },
+  {
+    "id": "b6491a513b81ff19ab",
+    "file": "b6491a513b81ff19ab.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.443708"
+  },
+  {
+    "id": "d814fb2599daddcf98",
+    "file": "d814fb2599daddcf98.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.652500"
+  },
+  {
+    "id": "648a5bc9f6ac7de816",
+    "file": "648a5bc9f6ac7de816.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.551500"
+  },
+  {
+    "id": "35c1fc63f7e9e5e07a",
+    "file": "35c1fc63f7e9e5e07a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.368583"
+  },
+  {
+    "id": "4f27665f91250d6ef3",
+    "file": "4f27665f91250d6ef3.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.337333"
+  },
+  {
+    "id": "5e8aaabc30d048ee3e",
+    "file": "5e8aaabc30d048ee3e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.403167"
+  },
+  {
+    "id": "7624723513d3911e4c",
+    "file": "7624723513d3911e4c.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.394333"
+  },
+  {
+    "id": "5c6e53015a9592db3c",
+    "file": "5c6e53015a9592db3c.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.449958"
+  },
+  {
+    "id": "6f9f6c1cec183ac077",
+    "file": "6f9f6c1cec183ac077.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.433167"
+  },
+  {
+    "id": "248322daf83a026419",
+    "file": "248322daf83a026419.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.513542"
+  },
+  {
+    "id": "e48c08742350a0d855",
+    "file": "e48c08742350a0d855.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.362417"
+  },
+  {
+    "id": "79d403d9f0598aa895",
+    "file": "79d403d9f0598aa895.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.430292"
+  },
+  {
+    "id": "3e0fe7410dd7de8070",
+    "file": "3e0fe7410dd7de8070.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.399292"
+  },
+  {
+    "id": "a46b6c70b25da7cef8",
+    "file": "a46b6c70b25da7cef8.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.593958"
+  },
+  {
+    "id": "77397382f8a7366ed9",
+    "file": "77397382f8a7366ed9.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.460458"
+  },
+  {
+    "id": "41229a2c7c71e877bc",
+    "file": "41229a2c7c71e877bc.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.435375"
+  },
+  {
+    "id": "30fd6ec3151a5ea532",
+    "file": "30fd6ec3151a5ea532.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.645250"
+  },
+  {
+    "id": "6711b2a9ea78bbeea3",
+    "file": "6711b2a9ea78bbeea3.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.713958"
+  },
+  {
+    "id": "60d4aba4a2ec456159",
+    "file": "60d4aba4a2ec456159.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.719333"
+  },
+  {
+    "id": "b8158800e57f394706",
+    "file": "b8158800e57f394706.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.763333"
+  },
+  {
+    "id": "f733ae67f6c29409d6",
+    "file": "f733ae67f6c29409d6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.754875"
+  },
+  {
+    "id": "737d51b07c7504ae3a",
+    "file": "737d51b07c7504ae3a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.776750"
+  },
+  {
+    "id": "c96b6ae51dead7755c",
+    "file": "c96b6ae51dead7755c.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.659792"
+  },
+  {
+    "id": "e46e2643a44367315e",
+    "file": "e46e2643a44367315e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.740708"
+  },
+  {
+    "id": "f4ba2000ff7f8b8d3a",
+    "file": "f4ba2000ff7f8b8d3a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.678458"
+  },
+  {
+    "id": "ae60586f0e5dca335c",
+    "file": "ae60586f0e5dca335c.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.855167"
+  },
+  {
+    "id": "2179522c1bcecb58c6",
+    "file": "2179522c1bcecb58c6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.754042"
+  },
+  {
+    "id": "c832fd86adf914d74c",
+    "file": "c832fd86adf914d74c.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.318292"
+  },
+  {
+    "id": "8635212e1255388d04",
+    "file": "8635212e1255388d04.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.481083"
+  },
+  {
+    "id": "77d4ae5420c10e27e7",
+    "file": "77d4ae5420c10e27e7.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.530792"
+  },
+  {
+    "id": "c5632c08707318d33d",
+    "file": "c5632c08707318d33d.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.507292"
+  },
+  {
+    "id": "5ed6f1c983bcb996ee",
+    "file": "5ed6f1c983bcb996ee.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.585708"
+  },
+  {
+    "id": "b5db23a8c7954b180d",
+    "file": "b5db23a8c7954b180d.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.582917"
+  },
+  {
+    "id": "102b947ec8a8593a77",
+    "file": "102b947ec8a8593a77.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.620958"
+  },
+  {
+    "id": "f869418147bbd2dbd6",
+    "file": "f869418147bbd2dbd6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.470958"
+  },
+  {
+    "id": "f97480016888d0c172",
+    "file": "f97480016888d0c172.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.537625"
+  },
+  {
+    "id": "82a3a5cc3d199ffdb6",
+    "file": "82a3a5cc3d199ffdb6.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.485667"
+  },
+  {
+    "id": "9b91910e0e6b3911c5",
+    "file": "9b91910e0e6b3911c5.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.699667"
+  },
+  {
+    "id": "1d2f254552b2ca6c42",
+    "file": "1d2f254552b2ca6c42.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.596875"
+  },
+  {
+    "id": "6ce0e96a5ca0598eb0",
+    "file": "6ce0e96a5ca0598eb0.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.508792"
+  },
+  {
+    "id": "1f6a54cf29f2b5730a",
+    "file": "1f6a54cf29f2b5730a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.653458"
+  },
+  {
+    "id": "65e658c249dc58fd12",
+    "file": "65e658c249dc58fd12.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.697083"
+  },
+  {
+    "id": "a9a114313aa1a9c636",
+    "file": "a9a114313aa1a9c636.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.709958"
+  },
+  {
+    "id": "48e14f0cb201e547b1",
+    "file": "48e14f0cb201e547b1.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.770333"
+  },
+  {
+    "id": "8761725dd212084abc",
+    "file": "8761725dd212084abc.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.751167"
+  },
+  {
+    "id": "21d6e685c47bd33f74",
+    "file": "21d6e685c47bd33f74.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.809958"
+  },
+  {
+    "id": "1b6aa1ad21f41f912d",
+    "file": "1b6aa1ad21f41f912d.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.682833"
+  },
+  {
+    "id": "138cb5d457938a9636",
+    "file": "138cb5d457938a9636.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.737958"
+  },
+  {
+    "id": "11fae9fdfd7113ae22",
+    "file": "11fae9fdfd7113ae22.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.665958"
+  },
+  {
+    "id": "8e13a9a15b153ca02e",
+    "file": "8e13a9a15b153ca02e.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.883542"
+  },
+  {
+    "id": "f8d6226e3159505009",
+    "file": "f8d6226e3159505009.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.773083"
+  },
+  {
+    "id": "aaafdb98d6b7d244d8",
+    "file": "aaafdb98d6b7d244d8.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.796500"
+  },
+  {
+    "id": "b420878f3e45fa9fc4",
+    "file": "b420878f3e45fa9fc4.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.945958"
+  },
+  {
+    "id": "45163a84a3fed26854",
+    "file": "45163a84a3fed26854.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.830542"
+  },
+  {
+    "id": "793b565dc38b0f6ef1",
+    "file": "793b565dc38b0f6ef1.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.957542"
+  },
+  {
+    "id": "f92759d2e27646eb2f",
+    "file": "f92759d2e27646eb2f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.740125"
+  },
+  {
+    "id": "b698fe77a550445c0b",
+    "file": "b698fe77a550445c0b.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.835792"
+  },
+  {
+    "id": "a61f6d650cb2a13ecf",
+    "file": "a61f6d650cb2a13ecf.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "0.680000"
+  },
+  {
+    "id": "cdd2cf8e9893ca5b06",
+    "file": "cdd2cf8e9893ca5b06.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.807042"
+  },
+  {
+    "id": "fd1506b88cc8a69c4f",
+    "file": "fd1506b88cc8a69c4f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.666417"
+  },
+  {
+    "id": "4b4a9be9c9679ae488",
+    "file": "4b4a9be9c9679ae488.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.696875"
+  },
+  {
+    "id": "d195b33e223786eb03",
+    "file": "d195b33e223786eb03.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.677875"
+  },
+  {
+    "id": "ac2f5c043e567ab2f1",
+    "file": "ac2f5c043e567ab2f1.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.343208"
+  },
+  {
+    "id": "30b53b7a398b0ddd61",
+    "file": "30b53b7a398b0ddd61.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.943417"
+  },
+  {
+    "id": "01c5890e5256bffd98",
+    "file": "01c5890e5256bffd98.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.012708"
+  },
+  {
+    "id": "6c25890d6d50c305cb",
+    "file": "6c25890d6d50c305cb.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.871125"
+  },
+  {
+    "id": "c178466e9c6e4dc01a",
+    "file": "c178466e9c6e4dc01a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.585958"
+  },
+  {
+    "id": "7b04ec00d610f3ecb0",
+    "file": "7b04ec00d610f3ecb0.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.668875"
+  },
+  {
+    "id": "1350459e72a98e1d57",
+    "file": "1350459e72a98e1d57.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "5.551000"
+  },
+  {
+    "id": "abfecb80ae636d5ad1",
+    "file": "abfecb80ae636d5ad1.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.012208"
+  },
+  {
+    "id": "b6e2c9ed641ffa0d25",
+    "file": "b6e2c9ed641ffa0d25.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.657958"
+  },
+  {
+    "id": "11aa06855e0aa3da2f",
+    "file": "11aa06855e0aa3da2f.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.030542"
+  },
+  {
+    "id": "449126ddc199cc4fe8",
+    "file": "449126ddc199cc4fe8.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.854917"
+  },
+  {
+    "id": "9f25dca9e565144a15",
+    "file": "9f25dca9e565144a15.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.766917"
+  },
+  {
+    "id": "a28c47b0233b7d7a67",
+    "file": "a28c47b0233b7d7a67.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.275000"
+  },
+  {
+    "id": "6a7e33888d0e429d27",
+    "file": "6a7e33888d0e429d27.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.579917"
+  },
+  {
+    "id": "757c8856212e5fadff",
+    "file": "757c8856212e5fadff.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.235208"
+  },
+  {
+    "id": "d7624e4faf90a84088",
+    "file": "d7624e4faf90a84088.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "5.530958"
+  },
+  {
+    "id": "5ad68a581280fcfbf5",
+    "file": "5ad68a581280fcfbf5.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.966083"
+  },
+  {
+    "id": "e721beb2f657723c86",
+    "file": "e721beb2f657723c86.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.269125"
+  },
+  {
+    "id": "137ce1557d93543a3d",
+    "file": "137ce1557d93543a3d.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.298833"
+  },
+  {
+    "id": "c6ec8d917f15d41155",
+    "file": "c6ec8d917f15d41155.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.578542"
+  },
+  {
+    "id": "63331bb53fb75bb815",
+    "file": "63331bb53fb75bb815.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.831167"
+  },
+  {
+    "id": "cea69a43319833e8dd",
+    "file": "cea69a43319833e8dd.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "1.467667"
+  },
+  {
+    "id": "c9e2d89d8fe92398d2",
+    "file": "c9e2d89d8fe92398d2.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.792833"
+  },
+  {
+    "id": "0f414bda75d769692d",
+    "file": "0f414bda75d769692d.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "4.683875"
+  },
+  {
+    "id": "3ccffc08811645c3e4",
+    "file": "3ccffc08811645c3e4.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.222917"
+  },
+  {
+    "id": "f476d8f5547f5325c1",
+    "file": "f476d8f5547f5325c1.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.569958"
+  },
+  {
+    "id": "3b22897a9dab327520",
+    "file": "3b22897a9dab327520.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "3.668375"
+  },
+  {
+    "id": "37b5d9c3a4979ef79a",
+    "file": "37b5d9c3a4979ef79a.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "5.019792"
+  },
+  {
+    "id": "dfc8b69b4e617b4d69",
+    "file": "dfc8b69b4e617b4d69.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "2.466958"
+  },
+  {
+    "id": "d44fe118190ad3fd3b",
+    "file": "d44fe118190ad3fd3b.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "11.019417"
+  },
+  {
+    "id": "1f8025f8f7aff627e5",
+    "file": "1f8025f8f7aff627e5.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "8.689958"
+  },
+  {
+    "id": "63613079b4c38a58d9",
+    "file": "63613079b4c38a58d9.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "8.647500"
+  },
+  {
+    "id": "515e70839e97190b95",
+    "file": "515e70839e97190b95.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "7.300292"
+  },
+  {
+    "id": "644408d2f5414762b5",
+    "file": "644408d2f5414762b5.mp3",
+    "codec_name": "mp3",
+    "sample_rate": "24000",
+    "channels": 1,
+    "duration": "10.190333"
+  }
+]

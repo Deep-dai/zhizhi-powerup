@@ -1,0 +1,1 @@
+window.POWERUP_CONFIG={"url":"https://awmweydtbsgqyitmprob.supabase.co","anonKey":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF3bXdleWR0YnNncXlpdG1wcm9iIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg5MDQyMjEsImV4cCI6MjEwNDQ4MDIyMX0.rT89P5Ppsoqno4d30MwQjRnG9js0OaThgTTT3NEE0xY","walletUrl":"https://rainy-coins.deepdai.chatgpt.site"};

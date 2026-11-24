@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-02",
+  "clips": 159,
+  "english": 150,
+  "chinese": 9,
+  "newCompleteRecordings": 157,
+  "reusedCompleteRecordings": 2,
+  "voice": "Sulafat",
+  "models": {
+    "gemini-2.5-flash-tts": 85,
+    "gemini-2.5-flash-lite-preview-tts": 74
+  },
+  "allGuardsPassed": true,
+  "minimumLeadingMs": 250,
+  "minimumTrailingMs": 285,
+  "strictNormalizedRecognitionMatches": 156,
+  "unresolved": 0,
+  "utteranceSlicing": false,
+  "guardPaddingMs": {
+    "leading": 250,
+    "trailing": 300
+  },
+  "bytes": 3886179,
+  "phoneticNameAliases": [
+    {
+      "text": "Does Mia want a teddy?",
+      "alias": {
+        "display": "Mia",
+        "synthesis": "Meeya",
+        "pronunciation": "MEE-uh /ˈmiːə/; same intended name pronunciation, no extra spoken word"
+      }
+    },
+    {
+      "text": "Does Mia want a plane?",
+      "alias": {
+        "display": "Mia",
+        "synthesis": "Meeya",
+        "pronunciation": "MEE-uh /ˈmiːə/; same intended name pronunciation, no extra spoken word"
+      }
+    }
+  ],
+  "isolatedPhraseAdaptation": {
+    "headword": "doll",
+    "audioWord": "a doll",
+    "independentCompleteRecording": true,
+    "noMisleadingDollIndexAlias": true
+  }
+}

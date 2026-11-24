@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f7f3ed"><title>枝枝的星光贴纸册</title>
+  <script>if('serviceWorker' in navigator)navigator.serviceWorker.register('sticker-cache-sw.js').catch(()=>{});</script>
+  <link rel="stylesheet" href="style.css?v=7">
+  <link rel="stylesheet" href="pokemon.css?v=10">
+<link rel="stylesheet" href="../site-nav.css?v=6"><link rel="icon" href="../assets/brand/icon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="../assets/brand/icon-180.png">
+<link rel="manifest" href="../manifest.webmanifest">
+</head>
+<body data-site-page="stickers">
+  <header class="topbar"><a class="brand" href="../index.html"><span class="brand-mark" aria-hidden="true">✧</span><span>枝枝的学习小天地<small>RAINY'S LITTLE WORLD</small></span></a><button type="button" class="draft-label" id="albumFamilyStatus" data-family-open>游客浏览 · 连接家庭</button></header>
+  <main>
+    <nav class="album-editions" aria-label="贴纸册页签">
+      <a href="#star" id="editionStar" aria-current="page"><span>01</span> 星光伙伴</a>
+      <a href="#pokemon" id="editionPokemon"><span>02</span> 宝可梦专区</a>
+    </nav>
+    <div id="starEdition">
+    <section class="hero">
+      <div class="hero-copy"><p class="eyebrow">把每一次进步，变成闪闪发光的朋友</p><h1>我的<span>星光贴纸册</span></h1><p class="hero-description">认识一个新伙伴，再陪它一起闪耀。<br>20位毛绒朋友，等着和枝枝一起长大。</p><div class="hero-actions"><button class="primary" data-action="go-collection">打开我的收藏 <span aria-hidden="true">↗</span></button><button class="text-button" data-action="rules">看看收藏约定 →</button></div><div class="hero-note"><span class="tiny-star">✦</span> 毛绒的温柔，藏着极光的魔法</div></div>
+      <div class="hero-art" aria-label="玲娜贝儿升级前后的造型"><div class="hero-orbit" aria-hidden="true"></div><div class="hero-halo" aria-hidden="true"></div><div class="hero-sticker" role="img" aria-label="极光寻梦侦探玲娜贝儿"></div><span class="hero-art-label">玲娜贝儿 · 极光寻梦侦探</span><span class="floating-note">复习，让我闪闪发光 ✧</span></div>
+    </section>
+    <section class="journey" aria-label="收藏规则"><div><span class="step">01</span><strong>初次掌握3个词</strong><span>选一位毛绒伙伴</span></div><span class="journey-arrow" aria-hidden="true">→</span><div><span class="step">02</span><strong>复习同一组3个词</strong><span>变身专属炫彩造型</span></div><span class="journey-arrow" data-wallet-only hidden aria-hidden="true">→</span><div data-wallet-only hidden><span class="step">03</span><strong>集齐3张升级贴纸</strong><span>一次兑换5枚枝枝币</span></div><span class="journey-keeps">贴纸一直陪着你</span></section>
+    <section class="album-section" id="album">
+      <div class="section-heading"><div><p class="eyebrow">THE FIRST COLLECTION</p><h2>20位朋友，20种闪耀</h2></div><div class="mode-control" role="group" aria-label="选择查看模式"><button data-mode="preview" class="active" aria-pressed="true">查看款式</button><button data-mode="mine" aria-pressed="false">我的收藏</button></div></div>
+      <div id="modePanel"></div>
+      <div class="collection-tools"><div class="series-tabs" role="group" aria-label="筛选贴纸系列" id="seriesTabs"></div><div class="state-switch" role="group" aria-label="查看贴纸形态"><button data-form="base" aria-pressed="false">初遇</button><button data-form="upgraded" class="active" aria-pressed="true">炫彩升级 <span aria-hidden="true">✧</span></button></div></div>
+      <div class="album-grid" id="albumGrid" aria-live="polite"></div>
+      <p class="collection-footnote">每位朋友都有两种造型 · 动作、装扮与水晶场景一起升级</p>
+    </section>
+    <section class="quiet-banner"><span aria-hidden="true">✧</span><div><h2>记住过的努力，会一直亮着。</h2><p>偶尔忘记也没关系，再一起练一练。贴纸和已经获得的奖励都会保留。</p></div><button class="text-button" data-action="rules">家长看看规则 →</button></section>
+    </div>
+    <div id="pokemonEdition" hidden>
+      <section class="pokemon-hero" aria-labelledby="pokemonTitle">
+        <div class="pokemon-hero-copy">
+          <p class="eyebrow">第二辑 · 伙伴探险册</p>
+          <h1 id="pokemonTitle">宝可梦专区</h1>
+          <p>学会 3 个词，认识一位新伙伴。<br>再陪它练一练，看它慢慢长大。</p>
+          <a class="primary" id="pokemonHeroAction" href="#pokemon-collection">去看宝可梦 ↓</a>
+        </div>
+        <div id="pokemonMapHome" class="pokemon-map-home">
+          <section id="pokemon-map" class="pokemon-map" aria-labelledby="pokemonMapTitle">
+            <header class="pokemon-map-heading">
+              <h2 id="pokemonMapTitle">我的伙伴地图</h2>
+              <div class="pokemon-map-controls">
+                <span id="pokemonMapCount"></span>
+                <button type="button" id="pokemonMapToggle" class="pokemon-map-toggle" aria-controls="pokemonMapDialog" aria-expanded="false">放大地图</button>
+              </div>
+            </header>
+            <div class="pokemon-hero-scene">
+              <img class="pokemon-landscape" src="assets/pokemon/adventure.webp" width="900" height="600" alt="" decoding="async" loading="lazy">
+              <div id="pokemonHeroFriends" class="pokemon-hero-friends"></div>
+              <div id="pokemonMapMarkers" class="pokemon-map-markers"></div>
+            </div>
+            <p id="pokemonMapMessage" class="pokemon-map-message" aria-live="polite"></p>
+            <p id="pokemonMapDragHint" class="pokemon-map-drag-hint" hidden>轻点伙伴开心跳跃，连点两次打开详情；单指拖动换位，双指调整大小。</p>
+          </section>
+        </div>
+      </section>
+      <section id="pokemon-owned" class="pokemon-owned" aria-labelledby="pokemonOwnedTitle" hidden>
+        <div class="pokemon-section-heading"><h2 id="pokemonOwnedTitle">我的宝可梦贴纸</h2><p id="pokemonOwnedCount"></p></div>
+        <div id="pokemonOwnedCards"></div>
+      </section>
+      <div id="pokemonExchange" data-wallet-only hidden></div>
+      <div id="pokemonPocket"></div>
+      <section id="pokemon-collection" class="pokemon-collection" aria-labelledby="starterTitle">
+        <div class="pokemon-section-heading"><div><p class="eyebrow">一起长大</p><h2 id="starterTitle">初代御三家</h2></div><p>领养 3 词 · 首次进化复习 3 词 · 终极进化复习 6 词</p></div>
+        <div id="pokemonStarters" class="pokemon-starters"></div>
+      </section>
+      <section id="pokemon-eevee-family" class="pokemon-collection" aria-labelledby="eeveeTitle">
+        <div class="pokemon-section-heading"><div><p class="eyebrow">八个不同的方向</p><h2 id="eeveeTitle">伊布家族</h2></div><p id="eeveeCount">已收集 0 / 8</p></div>
+        <div id="pokemonEevee"></div>
+        <div id="pokemonForms" class="pokemon-forms"></div>
+        <p class="pokemon-art-credit">角色图源 <a href="https://github.com/PokeAPI/sprites" target="_blank" rel="noopener noreferrer">PokéAPI 图库</a> · 家庭学习使用</p>
+      </section>
+    </div>
+  </main>
+  <footer><span>枝枝的星光贴纸册 · 伙伴收藏</span><span>家长确认学习成果，家庭共享进度；游客浏览和练习不写入家庭档案。</span></footer>
+  <dialog id="stickerDialog" class="sticker-dialog"><button class="close-dialog" data-action="close" aria-label="关闭贴纸详情">×</button><div id="stickerDetail"></div></dialog>
+  <dialog id="exchangeDialog" class="exchange-dialog"><button class="close-dialog" data-action="close-exchange" aria-label="关闭兑换窗口">×</button><div id="exchangeContent"></div></dialog>
+  <dialog id="rulesDialog" class="rules-dialog"><button class="close-dialog" data-action="close-rules" aria-label="关闭收藏约定">×</button><p class="eyebrow">给枝枝和家人的收藏约定</p><h2>每一点进步，都有它的位置</h2><ol class="rules-list"><li><strong>3个新词，认识一个伙伴。</strong>每个首次通过的词只累计一次；攒够3个，就能选择一张尚未收藏的贴纸。</li><li><strong>复习原来这3个词，伙伴炫彩升级。</strong>贴纸绑定的词组不变，3个词都复习通过后获得升级造型。</li><li data-wallet-only hidden><strong>3张升级贴纸，兑换5枚枝枝币。</strong>每张升级贴纸只参加一次兑换；兑换后保留炫彩造型，并加上“已兑换”标签。</li><li><strong>忘记了，可以再练。</strong>不收回贴纸，也不扣掉已经获得的奖励。</li><li><strong>20张之后，进步继续累计。</strong>第一辑对应60个首次掌握的词。还可以用未分配的词组去宝可梦专区认识新伙伴。</li></ol><p class="parent-note">掌握和复习由家长确认，复习时间由家长判断。游客不累计收藏。</p><button class="primary full" data-action="close-rules">知道啦，去收藏</button></dialog>
+  <dialog id="pokemonMapDialog" class="pokemon-map-dialog" aria-labelledby="pokemonMapTitle"></dialog>
+  <dialog id="pokemonDialog" class="sticker-dialog" aria-labelledby="pokemonDetailTitle"><button class="close-dialog" data-pk="close" aria-label="关闭宝可梦详情">×</button><div id="pokemonDetail"></div><p id="pokemonVoice" class="pokemon-voice" role="status"></p></dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script defer src="../cloud-config.js"></script><script defer src="../vendor/supabase.js"></script><script defer src="../cloud-client.js?v=4"></script><script defer src="catalog.js?v=2"></script><script defer src="sticker-art.js?v=2"></script><script type="module" src="cloud-album.mjs?v=18"></script><script type="module" src="pokemon-album.mjs?v=16"></script><script type="module" src="../site-nav.mjs?v=8"></script>
+</body>
+</html>

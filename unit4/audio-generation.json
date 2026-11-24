@@ -1,0 +1,28 @@
+{
+  "updated": "2026-10-30",
+  "provider": "Google Cloud Text-to-Speech API",
+  "voice": "Sulafat",
+  "revision": "g25-natural-v3",
+  "englishPrompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music.",
+  "englishReprocessed": 188,
+  "englishRegenerated": 187,
+  "completeSourceReused": 1,
+  "chineseUnchanged": 17,
+  "generationMethod": "one complete utterance per request; entire returned PCM retained",
+  "utteranceSlicing": false,
+  "guardPaddingMs": {
+    "leading": 250,
+    "trailing": 300
+  },
+  "models": {
+    "gemini-2.5-flash-tts": 127,
+    "gemini-2.5-flash-lite-preview-tts": 78
+  },
+  "clips": 205,
+  "languages": {
+    "en-GB": 188,
+    "cmn-CN": 17
+  },
+  "playbackRate": 1,
+  "speedPostprocessing": false
+}

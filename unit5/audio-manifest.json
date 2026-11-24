@@ -1,0 +1,4216 @@
+[
+  {
+    "id": "c3b67eed2aeba8b63c",
+    "lang": "en",
+    "text": "ball",
+    "group": "word",
+    "key": "en|ball",
+    "file": "u5-natural-v1-c3b67eed2aeba8b63c.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "6544c9fa806b91e05d7fbe9bb9f10a0cdc4ef802e9dd7a00954629dcfee489db",
+      "synthesisText": "ball.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "dd1adc5aace0e9d723",
+    "lang": "en",
+    "text": "This is a ball.",
+    "group": "drawer-example",
+    "key": "en|this is a ball",
+    "file": "u5-natural-v1-dd1adc5aace0e9d723.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "290e9ecda99bfe2cd97f46f4661c4465b15f8d425f3b74b18d745564d11c77ba",
+      "synthesisText": "This is a ball.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally. Pronounce ball with the vowel in tall, not bowl or pool.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "fb1f40ebbd1896cc82",
+    "lang": "en",
+    "text": "bike",
+    "group": "word",
+    "key": "en|bike",
+    "file": "u5-natural-v1-fb1f40ebbd1896cc82.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "13101cf4a7adcab13001f9197099e0ccc348f6204931208b247b6c941b9ff50a",
+      "synthesisText": "bike.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "abcaff2ac63e11aeab",
+    "lang": "en",
+    "text": "This is a bike.",
+    "group": "drawer-example",
+    "key": "en|this is a bike",
+    "file": "u5-natural-v1-abcaff2ac63e11aeab.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "9e3224da0854f20ff4eba48ed805118897b4a83dd0c59819bbbd91e0d9bbdf0c",
+      "synthesisText": "This is a bike.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "a10a72d06b36ff6325",
+    "lang": "en",
+    "text": "car",
+    "group": "word",
+    "key": "en|car",
+    "file": "u5-natural-v1-a10a72d06b36ff6325.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "97ba6513fba10add6ba9b0973ef0375d6441f1b91c15bd29c84fd0d0f453ff2c",
+      "synthesisText": "car.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "2c209ed1db858c876a",
+    "lang": "en",
+    "text": "This is a car.",
+    "group": "drawer-example",
+    "key": "en|this is a car",
+    "file": "u5-natural-v1-2c209ed1db858c876a.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "cac6a5e77f2a32b352a8a203aaea0f0dc584a42a3e7812ffba6d2ae2c85259a1",
+      "synthesisText": "This is a car.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "953ec82ebe6b699e82",
+    "lang": "en",
+    "text": "a doll",
+    "group": "word",
+    "key": "en|a doll",
+    "file": "u5-natural-v1-953ec82ebe6b699e82.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "11d6f136e14f8bc233c13bd290b7e6b37d910318d404c0f64e6e1918472e15fc",
+      "synthesisText": "a doll.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "f565cff412d9b69099",
+    "lang": "en",
+    "text": "This is a doll.",
+    "group": "drawer-example",
+    "key": "en|this is a doll",
+    "file": "u5-natural-v1-f565cff412d9b69099.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "6edca16e72acc9a2f0b1cd06f978ac4f5b95ff065102d8c6b92c21f0a373aeee",
+      "synthesisText": "This is a doll.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "fc5d71df372b5cf666",
+    "lang": "en",
+    "text": "house",
+    "group": "word",
+    "key": "en|house",
+    "file": "u5-natural-v1-fc5d71df372b5cf666.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "dc1bf2889597ebd552ab2354a11b3424bb4f846b60077952277f9081ea54316e",
+      "synthesisText": "house.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "c48e61b473413829e2",
+    "lang": "en",
+    "text": "This is a house.",
+    "group": "drawer-example",
+    "key": "en|this is a house",
+    "file": "u5-natural-v1-c48e61b473413829e2.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "6a6e6e1c05d84a277b5afe38bf384ce038e692dc7c53f6dcff6fc9ca52ce1a67",
+      "synthesisText": "This is a house.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "19e68ec96e19dcb8d6",
+    "lang": "en",
+    "text": "kite",
+    "group": "word",
+    "key": "en|kite",
+    "file": "u5-natural-v1-19e68ec96e19dcb8d6.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "dbe15c12de09e07e7d77fe84902b9cead801e6d6bbb257255f797462f29f4bd1",
+      "synthesisText": "kite.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "2d139ace2dd6d7a0f3",
+    "lang": "en",
+    "text": "This is a kite.",
+    "group": "drawer-example",
+    "key": "en|this is a kite",
+    "file": "u5-natural-v1-2d139ace2dd6d7a0f3.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "225daaec7ea870620548497f99fe221ad9e1999e6ddb9719fc5158ad9037aa29",
+      "synthesisText": "This is a kite.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "b23965f3edf0aedc1b",
+    "lang": "en",
+    "text": "robot",
+    "group": "word",
+    "key": "en|robot",
+    "file": "u5-natural-v1-b23965f3edf0aedc1b.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "6cba0bb929fd51d4d78d4ca34de0701d88ae57690ae27261fbfd780c6456daed",
+      "synthesisText": "robot.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "4f6f26b5524637a847",
+    "lang": "en",
+    "text": "This is a robot.",
+    "group": "drawer-example",
+    "key": "en|this is a robot",
+    "file": "u5-natural-v1-4f6f26b5524637a847.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "412b5853710813ae41087dd43b180d09c8863464dbd2df4764bbbc9dfe693de0",
+      "synthesisText": "This is a robot.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "c705646ab3ecc0208e",
+    "lang": "en",
+    "text": "plane",
+    "group": "word",
+    "key": "en|plane",
+    "file": "u5-natural-v1-c705646ab3ecc0208e.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "6ab604d789b32756cb0ac6e1a49d4a74e54499c765111f9313813c988c2e2fc0",
+      "synthesisText": "plane.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "b556374b46f8ea1b27",
+    "lang": "en",
+    "text": "This is a plane.",
+    "group": "drawer-example",
+    "key": "en|this is a plane",
+    "file": "u5-natural-v1-b556374b46f8ea1b27.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "b211f00fbf908521dc46804d23735c6014bcbddccccc9b8056e9c75a734b80b4",
+      "synthesisText": "This is a plane.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "0928367fefa0d497c4",
+    "lang": "en",
+    "text": "balloon",
+    "group": "word",
+    "key": "en|balloon",
+    "file": "u5-natural-v1-0928367fefa0d497c4.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "36f0948c653826961306a0b4b9bd37926606d6d2e80314943269aa5fc8e2c8e0",
+      "synthesisText": "balloon.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "93872789de10a38312",
+    "lang": "en",
+    "text": "This is a balloon.",
+    "group": "drawer-example",
+    "key": "en|this is a balloon",
+    "file": "u5-natural-v1-93872789de10a38312.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "8169e9add67d12672e9994d800cea1056ab40de0379771c4d6c6c15414eca61f",
+      "synthesisText": "This is a balloon.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "47e422e8d1f85ce339",
+    "lang": "en",
+    "text": "board game",
+    "group": "word",
+    "key": "en|board game",
+    "file": "u5-natural-v1-47e422e8d1f85ce339.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "ea78d5862e2c8209fa5924719d37c35ecfc57b672b618eda9b970f1989ddce60",
+      "synthesisText": "board game.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "f8af603aef1965e2b9",
+    "lang": "en",
+    "text": "This is a board game.",
+    "group": "drawer-example",
+    "key": "en|this is a board game",
+    "file": "u5-natural-v1-f8af603aef1965e2b9.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "98d17f66db0f174a31768df0e4657342b89ca71efa15467261990a54706282e5",
+      "synthesisText": "This is a board game.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "16e0716fa344e1afaf",
+    "lang": "en",
+    "text": "box",
+    "group": "word",
+    "key": "en|box",
+    "file": "u5-natural-v1-16e0716fa344e1afaf.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "8157928da7aa309b683674ce5f30ba9144d636fcb02c9f9d9347e49619d3d499",
+      "synthesisText": "box.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "756086d55e23bf04fa",
+    "lang": "en",
+    "text": "This is a box.",
+    "group": "drawer-example",
+    "key": "en|this is a box",
+    "file": "u5-natural-v1-756086d55e23bf04fa.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "9359831ae38aa28b5a67cfeac983ba09b57248a2f1c8c0c3ab1ec025314f7d3a",
+      "synthesisText": "This is a box.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "e6fa595b21caeebaf5",
+    "lang": "en",
+    "text": "computer",
+    "group": "word",
+    "key": "en|computer",
+    "file": "u5-natural-v1-e6fa595b21caeebaf5.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "bbd906bf41476136165e4af89aab6d99ba6f22e54b7331415cb5ccf7539f7de5",
+      "synthesisText": "computer.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "1e76ddb8297170d8d3",
+    "lang": "en",
+    "text": "This is a computer.",
+    "group": "drawer-example",
+    "key": "en|this is a computer",
+    "file": "u5-natural-v1-1e76ddb8297170d8d3.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "280d2a3de6caa093416200bd01127c1dcde224dd10bbd2d6fa906b6471785306",
+      "synthesisText": "This is a computer.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "1496bd70795ef2c10e",
+    "lang": "en",
+    "text": "helicopter",
+    "group": "word",
+    "key": "en|helicopter",
+    "file": "u5-natural-v1-1496bd70795ef2c10e.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "a00db2a86f0d0ed9340ec56ab418a38bbe1a3c1b047cdfa70a2000b5fcb90fd6",
+      "synthesisText": "helicopter.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "db0607eee356ea4dee",
+    "lang": "en",
+    "text": "This is a helicopter.",
+    "group": "drawer-example",
+    "key": "en|this is a helicopter",
+    "file": "u5-natural-v1-db0607eee356ea4dee.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "9467424a65af4bd309f7420488b434ed21da8baa4d94761df617721265f9f472",
+      "synthesisText": "This is a helicopter.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "4d568b40b3a1267a26",
+    "lang": "en",
+    "text": "keyboard",
+    "group": "word",
+    "key": "en|keyboard",
+    "file": "u5-natural-v1-4d568b40b3a1267a26.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "8044a22515e85d54c4569e7dbbcc7b8fe0ef9ffa1822be24cdc6deb688f4d6b5",
+      "synthesisText": "keyboard.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "775b4b8810732df52d",
+    "lang": "en",
+    "text": "This is a keyboard.",
+    "group": "drawer-example",
+    "key": "en|this is a keyboard",
+    "file": "u5-natural-v1-775b4b8810732df52d.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "59dcdf5a770616de462c13d9c8cc6199d892eb4984c5e48c69f597c3abfae1e8",
+      "synthesisText": "This is a keyboard.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "380836f660a15e0ffc",
+    "lang": "en",
+    "text": "mouse",
+    "group": "word",
+    "key": "en|mouse",
+    "file": "u5-natural-v1-380836f660a15e0ffc.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "a19cf29dd42d289585b1c7e295c2369df4c18bca60b0b7d30c2e588efcde8a88",
+      "synthesisText": "mouse.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "1ebf98a60341413431",
+    "lang": "en",
+    "text": "This is a mouse.",
+    "group": "drawer-example",
+    "key": "en|this is a mouse",
+    "file": "u5-natural-v1-1ebf98a60341413431.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "f31e6d1395936ae44fc7aa832dd8a3e2b59e5b26a6731c3d0df306f5ea5c97d8",
+      "synthesisText": "This is a mouse.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "c18641c128ae192c86",
+    "lang": "en",
+    "text": "radio",
+    "group": "word",
+    "key": "en|radio",
+    "file": "u5-natural-v1-c18641c128ae192c86.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "2cd982bbdab8d15e7444cb15acbb639cdcf2827daca9e3a33ebc58a9ced81db5",
+      "synthesisText": "radio.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "11ec29cab10a1a2445",
+    "lang": "en",
+    "text": "This is a radio.",
+    "group": "drawer-example",
+    "key": "en|this is a radio",
+    "file": "u5-natural-v1-11ec29cab10a1a2445.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "e95649c05d0352647c4db548148192b5cf998a6c2552d615c8eb0cb64dbeac48",
+      "synthesisText": "This is a radio.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "b3c2777b43c20ebf44",
+    "lang": "en",
+    "text": "ship",
+    "group": "word",
+    "key": "en|ship",
+    "file": "u5-natural-v1-b3c2777b43c20ebf44.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "3ec70ec35ddde20917db62b4a3c778e300c63a75808d5a822c9bda6387151ade",
+      "synthesisText": "ship.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "36b5adfbc6bdf23444",
+    "lang": "en",
+    "text": "This is a ship.",
+    "group": "drawer-example",
+    "key": "en|this is a ship",
+    "file": "u5-natural-v1-36b5adfbc6bdf23444.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "9cac3915998cadfce487a59cafda23b20132ad2db1a0eceb6f655fc614ea739c",
+      "synthesisText": "This is a ship.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "41f8ae15622ddd2a83",
+    "lang": "en",
+    "text": "teddy",
+    "group": "word",
+    "key": "en|teddy",
+    "file": "u5-natural-v1-41f8ae15622ddd2a83.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "d3de73337b88fe0bffeec9399886bac1e0a885bfdcf70233f692260f3170fb6c",
+      "synthesisText": "teddy.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "624209c2f17c2eecdb",
+    "lang": "en",
+    "text": "This is a teddy.",
+    "group": "drawer-example",
+    "key": "en|this is a teddy",
+    "file": "u5-natural-v1-624209c2f17c2eecdb.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "563e68551432b44581c58786e54e38bfd66e93a346aba960741e4edadb07f42a",
+      "synthesisText": "This is a teddy.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "6cc22de333f4459fd6",
+    "lang": "en",
+    "text": "circle",
+    "group": "word",
+    "key": "en|circle",
+    "file": "u5-natural-v1-6cc22de333f4459fd6.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "0b3409adb11f4e000a3fb184c28c060bd0c64c4887bac74f691e208aa9e1fba5",
+      "synthesisText": "circle.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "117834bbdaf41b619f",
+    "lang": "en",
+    "text": "This is a circle.",
+    "group": "drawer-example",
+    "key": "en|this is a circle",
+    "file": "u5-natural-v1-117834bbdaf41b619f.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "eacc127b90221626f61c90420da2dc198af9607a8abf2d0b5e126933649689c2",
+      "synthesisText": "This is a circle.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "262444422622c2b816",
+    "lang": "en",
+    "text": "square",
+    "group": "word",
+    "key": "en|square",
+    "file": "u5-natural-v1-262444422622c2b816.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "2c1500194fbec13d1783b7232ea4c57cfeff9ee56cf60aea4b85299b4d206d31",
+      "synthesisText": "Square.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "43590edfc94856b840",
+    "lang": "en",
+    "text": "This is a square.",
+    "group": "drawer-example",
+    "key": "en|this is a square",
+    "file": "u5-natural-v1-43590edfc94856b840.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "22a0f1e0389f38c863cf653e1b73c581065ee532f07fad25c602c4855bb754db",
+      "synthesisText": "This is a square.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "c43e08d06724260546",
+    "lang": "en",
+    "text": "triangle",
+    "group": "word",
+    "key": "en|triangle",
+    "file": "u5-natural-v1-c43e08d06724260546.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "e5391247736d6751c4ec2c84369f1e707508c3bafcfba46ca8721354a0b8dd22",
+      "synthesisText": "triangle.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "2b0bac337526becb4c",
+    "lang": "en",
+    "text": "This is a triangle.",
+    "group": "drawer-example",
+    "key": "en|this is a triangle",
+    "file": "u5-natural-v1-2b0bac337526becb4c.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "344739651506ef7bda66f5e10a1e6c7bb619abf5d76772cbec79b22aa72ef217",
+      "synthesisText": "This is a triangle.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "faa17387f3035dd3cb",
+    "lang": "en",
+    "text": "rectangle",
+    "group": "word",
+    "key": "en|rectangle",
+    "file": "u5-natural-v1-faa17387f3035dd3cb.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "fcb0f97207c11d35a3474f31e12ef64bc2a7ff5f5eec99d765325785f6352745",
+      "synthesisText": "rectangle.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "3cc282d0824251ec31",
+    "lang": "en",
+    "text": "This is a rectangle.",
+    "group": "drawer-example",
+    "key": "en|this is a rectangle",
+    "file": "u5-natural-v1-3cc282d0824251ec31.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "d950032c894858e0c0bb9dd1fe3273e12d97364cebbf5d84ae538c9218dc2814",
+      "synthesisText": "This is a rectangle.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "92c283fc9835c9c1a8",
+    "lang": "en",
+    "text": "toy box",
+    "group": "alias-or-phonics",
+    "key": "en|toy box",
+    "file": "u5-natural-v1-92c283fc9835c9c1a8.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "dab83eebb6ec21f7f6518cfd7d95c67c86cbe227cc2b060c4c3a6400f574f57b",
+      "synthesisText": "toy box.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "ff832f615709a3cee9",
+    "lang": "en",
+    "text": "teddy bear",
+    "group": "alias-or-phonics",
+    "key": "en|teddy bear",
+    "file": "u5-natural-v1-ff832f615709a3cee9.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "2bef2132d8a2d46f4738f93ed3a84f2806caf1c9f85e46bc9488fd6243664d07",
+      "synthesisText": "teddy bear.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "6d046297ad5d191ed5",
+    "lang": "en",
+    "text": "happy",
+    "group": "alias-or-phonics",
+    "key": "en|happy",
+    "file": "u5-natural-v1-6d046297ad5d191ed5.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "991a6a7f6a298e2430cef0912bba5f0fb8c5d8b2e133056f2da23e3aef075389",
+      "synthesisText": "happy.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "de906315b71cf3bfad",
+    "lang": "en",
+    "text": "Whose bike is this?",
+    "group": "ownership-question",
+    "key": "en|whose bike is this",
+    "file": "u5-natural-v1-de906315b71cf3bfad.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "4aa80cac5ad7aa8549c897e7df6463f8a3926e8ff5af3f1f019a0d3bf8dd932a",
+      "synthesisText": "Whose bike is this?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "13fcf5648b12e97f1e",
+    "lang": "en",
+    "text": "It's Ben's bike.",
+    "group": "ownership-answer",
+    "key": "en|it's ben's bike",
+    "file": "u5-natural-v1-13fcf5648b12e97f1e.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "9b9effaa5cfde45692df66a258bf434389cc0c8f98bec9b1efb96d1059d776e1",
+      "synthesisText": "It's Ben's bike.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "ed6746bb8b63c97e5d",
+    "lang": "en",
+    "text": "Whose robot is this?",
+    "group": "ownership-question",
+    "key": "en|whose robot is this",
+    "file": "u5-natural-v1-ed6746bb8b63c97e5d.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "522c6657aec06bf30e84f5f9aae0c4e3cb2ea0a06c99a131eb8cb68b4236576c",
+      "synthesisText": "Whose robot is this?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "129cc69ca8f05d2ca2",
+    "lang": "en",
+    "text": "It's Ben's robot.",
+    "group": "ownership-answer",
+    "key": "en|it's ben's robot",
+    "file": "u5-natural-v1-129cc69ca8f05d2ca2.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "e08e7f6b0a2ca182aed4f0c8119739fd16605f47654f5c597e4023266035d289",
+      "synthesisText": "It's Ben's robot.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "26705ad994b5c0aab0",
+    "lang": "en",
+    "text": "Whose doll is this?",
+    "group": "ownership-question",
+    "key": "en|whose doll is this",
+    "file": "u5-natural-v1-26705ad994b5c0aab0.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "7b1277eed556f83cb3f12f030fb6079101785c46cad8a6ab9a45cb2b4952b1ce",
+      "synthesisText": "Whose doll is this?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "00e549252a020b59a5",
+    "lang": "en",
+    "text": "It's Mia's doll.",
+    "group": "ownership-answer",
+    "key": "en|it's mia's doll",
+    "file": "u5-natural-v1-00e549252a020b59a5.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "1333744993371998e3fcc9d4d871540e6857a27510b56c6f7cf879efbafa562e",
+      "synthesisText": "It's Mia's doll.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "81c024706febe7fae7",
+    "lang": "en",
+    "text": "Whose kite is this?",
+    "group": "ownership-question",
+    "key": "en|whose kite is this",
+    "file": "u5-natural-v1-81c024706febe7fae7.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "98c4402d239abd286efcf6f147f16ad23e89ff82f149051bfc5c70a4fd17f068",
+      "synthesisText": "Whose kite is this?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "fd0e72989bd6bd5462",
+    "lang": "en",
+    "text": "It's Mia's kite.",
+    "group": "ownership-answer",
+    "key": "en|it's mia's kite",
+    "file": "u5-natural-v1-fd0e72989bd6bd5462.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "1e5d25b773725def6d379dc0afe921f7340b1c942f71f36f422c420a1e8cfeac",
+      "synthesisText": "It's Mia's kite.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "6b21441879a65cfaf5",
+    "lang": "en",
+    "text": "Whose ball is this?",
+    "group": "ownership-question",
+    "key": "en|whose ball is this",
+    "file": "u5-natural-v1-6b21441879a65cfaf5.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "abdcde7353ba6f9aa597e2a2361b5e11a5e29fe9b47595609d6ba6786050a62c",
+      "synthesisText": "Whose ball is this?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally. Pronounce ball with the vowel in tall, not bowl or pool.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "1211890ae396bd6e33",
+    "lang": "en",
+    "text": "It's Ben's ball.",
+    "group": "ownership-answer",
+    "key": "en|it's ben's ball",
+    "file": "u5-natural-v1-1211890ae396bd6e33.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "a0126f287be67329d6332cd83d2f3715d3d1763aab2f797d2e3d4b4406690ba8",
+      "synthesisText": "It's Ben's ball.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "0be03f25a31e8a3a6b",
+    "lang": "en",
+    "text": "Whose plane is this?",
+    "group": "ownership-question",
+    "key": "en|whose plane is this",
+    "file": "u5-natural-v1-0be03f25a31e8a3a6b.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "3ffd31d9272e3d8c8a084ba7a6275e978a3ebff0e622f9d8f44417e412e47465",
+      "synthesisText": "Whose plane is this?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "688861d4e21e964b03",
+    "lang": "en",
+    "text": "It's Mia's plane.",
+    "group": "ownership-answer",
+    "key": "en|it's mia's plane",
+    "file": "u5-natural-v1-688861d4e21e964b03.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "c44cb385820606e1cb54edf17ea67ace8aa236770829729dc7e1522d35ed8df0",
+      "synthesisText": "It's Mia's plane.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "eb22c1761d5e81465b",
+    "lang": "en",
+    "text": "Whose board game is this?",
+    "group": "possessives",
+    "key": "en|whose board game is this",
+    "file": "u5-natural-v1-eb22c1761d5e81465b.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "7d6d6c0a4f796ae3feef7933e7db6578ed477c4be79e9dc1f3e26bbaa6d6e6bc",
+      "synthesisText": "Whose board game is this?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "20d93b3b96f0b7769d",
+    "lang": "en",
+    "text": "It's Ben and Mia's board game.",
+    "group": "possessives",
+    "key": "en|it's ben and mia's board game",
+    "file": "u5-natural-v1-20d93b3b96f0b7769d.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "232a0749c5e8a81c7c7a45c049c4a90e5e13afdfdcc28642ad19e1d077db2345",
+      "synthesisText": "It's Ben and Mia's board game.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "2d35c310a701b52d43",
+    "lang": "en",
+    "text": "It's my kite.",
+    "group": "possessives",
+    "key": "en|it's my kite",
+    "file": "u5-natural-v1-2d35c310a701b52d43.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "5b7be285b20282ebceab14daf036d1bc4569f3616bcdd5b97661757009d4f897",
+      "synthesisText": "It's my kite.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "43676ca861049d6982",
+    "lang": "en",
+    "text": "It's your kite.",
+    "group": "possessives",
+    "key": "en|it's your kite",
+    "file": "u5-natural-v1-43676ca861049d6982.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "82fcaf5d6452b212965589d794b091281406322563a4858876ee6676477454c3",
+      "synthesisText": "It's your kite.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "65bed8b9fdd6981303",
+    "lang": "en",
+    "text": "It's his robot.",
+    "group": "possessives",
+    "key": "en|it's his robot",
+    "file": "u5-natural-v1-65bed8b9fdd6981303.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "6af16e63bd80a1bd436cc93b10cb4ef9eb08fe387ca6167914dd2a049b3459f0",
+      "synthesisText": "It's his robot.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "deadcc74703e78ee1d",
+    "lang": "en",
+    "text": "It's her doll.",
+    "group": "possessives",
+    "key": "en|it's her doll",
+    "file": "u5-natural-v1-deadcc74703e78ee1d.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "5da79e5335c63000c199eaf742420db433339ebc3e91e900a2803ce71e8bc1e7",
+      "synthesisText": "It's her doll.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "af802c238d2cf08dbd",
+    "lang": "en",
+    "text": "It's our board game.",
+    "group": "possessives",
+    "key": "en|it's our board game",
+    "file": "u5-natural-v1-af802c238d2cf08dbd.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "3e83eddf8a6ffdc77356d2f45ff374b37c7959188a686c4be2b479cd1d644964",
+      "synthesisText": "It's our board game.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally. Game rhymes with name, with a complete final m sound.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "03690e7644f259d1c6",
+    "lang": "en",
+    "text": "It's their board game.",
+    "group": "possessives",
+    "key": "en|it's their board game",
+    "file": "u5-natural-v1-03690e7644f259d1c6.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "8658b6d9761d3d7346ba2471945c0635f80e3f27d5ca00209f4f4d9e38d4d4dc",
+      "synthesisText": "It's their board game.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "3a91392eae74010bbc",
+    "lang": "en",
+    "text": "His bike is blue.",
+    "group": "possessives",
+    "key": "en|his bike is blue",
+    "file": "u5-natural-v1-3a91392eae74010bbc.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "475cb792a876f2730f5530e5147959cccbf447e3433412deec9187a85b121930",
+      "synthesisText": "His bike is blue.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "a5f8b26ff36ce9a3ee",
+    "lang": "en",
+    "text": "Her doll is new.",
+    "group": "possessives",
+    "key": "en|her doll is new",
+    "file": "u5-natural-v1-a5f8b26ff36ce9a3ee.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "a5cf8fc0565acc2e3219e6a3481d2a8c4455ef59f71020facbdc991dd9e3e23f",
+      "synthesisText": "Her doll is new.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "99763a4cefc9301b2f",
+    "lang": "en",
+    "text": "Our board game is new.",
+    "group": "possessives",
+    "key": "en|our board game is new",
+    "file": "u5-natural-v1-99763a4cefc9301b2f.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "cba49bf509263d800b9183567550da32f9fef245f7c20acaccc2a8a5f1ca609e",
+      "synthesisText": "Our board game is new.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "8f6195767bf3a511bc",
+    "lang": "en",
+    "text": "Their board game is new.",
+    "group": "possessives",
+    "key": "en|their board game is new",
+    "file": "u5-natural-v1-8f6195767bf3a511bc.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "57801a0b7f97f9ec07ed9af3ae2cd810f25481bba0e79af03da6e0b059ffac3c",
+      "synthesisText": "Their board game is new.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "42e08c5d0c34a69586",
+    "lang": "en",
+    "text": "I want a robot.",
+    "group": "wish",
+    "key": "en|i want a robot",
+    "file": "u5-natural-v1-42e08c5d0c34a69586.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "251eb86a1c7be9bc70b91fac20422ed2b892f73d199eb3122808fbd6ad384674",
+      "synthesisText": "I want a robot.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "7eaf07dfacc21bce1a",
+    "lang": "en",
+    "text": "Ben wants a robot.",
+    "group": "wish",
+    "key": "en|ben wants a robot",
+    "file": "u5-natural-v1-7eaf07dfacc21bce1a.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "8167cbb144c7f1e557c37b8e7f03ab60608d967e64e00ac91efd767fb75fc80c",
+      "synthesisText": "Ben wants a robot.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "75a747086f59a08194",
+    "lang": "en",
+    "text": "Mia wants a robot.",
+    "group": "wish",
+    "key": "en|mia wants a robot",
+    "file": "u5-natural-v1-75a747086f59a08194.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "adff855ba1553cb0a5f00644d59b35d485aa3148224058cddd868900011a2be9",
+      "synthesisText": "Mia wants a robot.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "d6dfcce16197deedef",
+    "lang": "en",
+    "text": "Does Ben want a robot?",
+    "group": "wish-question",
+    "key": "en|does ben want a robot",
+    "file": "u5-natural-v1-d6dfcce16197deedef.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "9d2aecb8ae863c57fe7c3009c3c6f81ba9ba41cee9183097e352824eb075f1e6",
+      "synthesisText": "Does Ben want a robot?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "639a659cb42e7a6838",
+    "lang": "en",
+    "text": "Does Mia want a robot?",
+    "group": "wish-question",
+    "key": "en|does mia want a robot",
+    "file": "u5-natural-v1-639a659cb42e7a6838.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "6456d8212e55a6f0c6f9858a6230bdfa6faa172fdf7cc900a9b148f41b5abcb5",
+      "synthesisText": "Does Mia want a robot?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "f849d9c3595afbfb69",
+    "lang": "en",
+    "text": "It's Mia's robot.",
+    "group": "party-ownership",
+    "key": "en|it's mia's robot",
+    "file": "u5-natural-v1-f849d9c3595afbfb69.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "7483b74edd0c7de83d58057d00be3173218dd8313abcf754703e36c7b0f3299f",
+      "synthesisText": "It's Mia's robot.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "17dbda6ac9004ef61a",
+    "lang": "en",
+    "text": "I want a doll.",
+    "group": "wish",
+    "key": "en|i want a doll",
+    "file": "u5-natural-v1-17dbda6ac9004ef61a.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "bd753276ccf4c0047ad1837d584b2a3fcb59643db785e10a4a899d24c224b61c",
+      "synthesisText": "I want a doll.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "ca2d66eb9dc13d1a63",
+    "lang": "en",
+    "text": "Ben wants a doll.",
+    "group": "wish",
+    "key": "en|ben wants a doll",
+    "file": "u5-natural-v1-ca2d66eb9dc13d1a63.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "5161873051d54fac4a369e314b1f57557fba6667b93a38f38be3f4411774ac01",
+      "synthesisText": "Ben wants a doll.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "a63cc3c13d0ff5e45c",
+    "lang": "en",
+    "text": "Mia wants a doll.",
+    "group": "wish",
+    "key": "en|mia wants a doll",
+    "file": "u5-natural-v1-a63cc3c13d0ff5e45c.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "6280b68525c3c859b3e5a5f0a8b57b79554d7d0243649a3cf36d99e2f8bf157d",
+      "synthesisText": "Mia wants a doll.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally. The name Mia is pronounced MEE-uh, two syllables. Pronounce doll with the short British vowel in lot, not dull.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "ab49a49dec2ecb1d3a",
+    "lang": "en",
+    "text": "Does Ben want a doll?",
+    "group": "wish-question",
+    "key": "en|does ben want a doll",
+    "file": "u5-natural-v1-ab49a49dec2ecb1d3a.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "5e3e88b6768eefd3754f5141da7a6c3ba976540c7a6c1b0b0e6f18723737387a",
+      "synthesisText": "Does Ben want a doll?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "952b7f8e6a15b9cccf",
+    "lang": "en",
+    "text": "It's Ben's doll.",
+    "group": "party-ownership",
+    "key": "en|it's ben's doll",
+    "file": "u5-natural-v1-952b7f8e6a15b9cccf.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "11074c64b8219f1ea1b2b752d04597e369d0c0e30bfdf18d5b655391132fd79e",
+      "synthesisText": "It's Ben's doll.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "83b1099dec58fc9563",
+    "lang": "en",
+    "text": "Does Mia want a doll?",
+    "group": "wish-question",
+    "key": "en|does mia want a doll",
+    "file": "u5-natural-v1-83b1099dec58fc9563.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "1b5c0355a50f94b5afd6644e307eab93d0f4fcd98f198f6871cdb38ca19b20d2",
+      "synthesisText": "Does Mia want a doll?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "4fda0b27267b921bb4",
+    "lang": "en",
+    "text": "I want a kite.",
+    "group": "wish",
+    "key": "en|i want a kite",
+    "file": "u5-natural-v1-4fda0b27267b921bb4.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "5b2b81b82c4ccf6fd280565cd29a76734a3958e29ac3dce33a60295b18bdb604",
+      "synthesisText": "I want a kite.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "3acba5214c7001cd14",
+    "lang": "en",
+    "text": "Ben wants a kite.",
+    "group": "wish",
+    "key": "en|ben wants a kite",
+    "file": "u5-natural-v1-3acba5214c7001cd14.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "4becd1d418357ea830f876d8f34e9e10f7ea52f936ea9820e8e2b29c6692d3e5",
+      "synthesisText": "Ben wants a kite.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "b7e985dbace601951d",
+    "lang": "en",
+    "text": "Mia wants a kite.",
+    "group": "wish",
+    "key": "en|mia wants a kite",
+    "file": "u5-natural-v1-b7e985dbace601951d.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "002cd88d7c14ca788bccf13f619208efb4d6018c5e3e7ebf1ba9eb79bd56b228",
+      "synthesisText": "Mia wants a kite.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "f3337b8e99ec14ea14",
+    "lang": "en",
+    "text": "Does Ben want a kite?",
+    "group": "wish-question",
+    "key": "en|does ben want a kite",
+    "file": "u5-natural-v1-f3337b8e99ec14ea14.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "220c76508625b047415dfa2a7d46e351a14a32bf43dc3980c8bd57ad79d2999f",
+      "synthesisText": "Does Ben want a kite?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "50d4b0f55eac57895a",
+    "lang": "en",
+    "text": "It's Ben's kite.",
+    "group": "party-ownership",
+    "key": "en|it's ben's kite",
+    "file": "u5-natural-v1-50d4b0f55eac57895a.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "3e3adfb16e77130bda8d60615b784e10fd831c432b29dd3abcf93f4eccc41f5d",
+      "synthesisText": "It's Ben's kite.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "8d8c2245bde7af0373",
+    "lang": "en",
+    "text": "Does Mia want a kite?",
+    "group": "wish-question",
+    "key": "en|does mia want a kite",
+    "file": "u5-natural-v1-8d8c2245bde7af0373.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "4effe9ec0714d1e498ca19f240a42dba191e8d1e5de4fc88fecfdf363a864c15",
+      "synthesisText": "Does Mia want a kite?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "76b903cbbc46abca21",
+    "lang": "en",
+    "text": "I want a teddy.",
+    "group": "wish",
+    "key": "en|i want a teddy",
+    "file": "u5-natural-v1-76b903cbbc46abca21.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "331610e28fd398bf5b6311a72d1856006b7097d71c641d9559e3d7f05a083162",
+      "synthesisText": "I want a teddy.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "3726d12dd8fdf83379",
+    "lang": "en",
+    "text": "Ben wants a teddy.",
+    "group": "wish",
+    "key": "en|ben wants a teddy",
+    "file": "u5-natural-v1-3726d12dd8fdf83379.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "58b21fd6b3800c45dff4149126203dc9daedb1f6e871fb08ca62a8b72a7ed6f7",
+      "synthesisText": "Ben wants a teddy.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "9b347753322fb435f5",
+    "lang": "en",
+    "text": "Mia wants a teddy.",
+    "group": "wish",
+    "key": "en|mia wants a teddy",
+    "file": "u5-natural-v1-9b347753322fb435f5.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "6018a62b137c4686b509b7147ccf188af306ce477e95ae98c6c308fb0e035ecf",
+      "synthesisText": "Mia wants a teddy.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "515f846661daeb2c80",
+    "lang": "en",
+    "text": "Does Ben want a teddy?",
+    "group": "wish-question",
+    "key": "en|does ben want a teddy",
+    "file": "u5-natural-v1-515f846661daeb2c80.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "a3913122eece35df1f2ddedec5438362ac9007cc04b3b82b8541a59cf92d2d6d",
+      "synthesisText": "Does Ben want a teddy?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "7eb9e6bfe09dd2edb9",
+    "lang": "en",
+    "text": "It's Ben's teddy.",
+    "group": "party-ownership",
+    "key": "en|it's ben's teddy",
+    "file": "u5-natural-v1-7eb9e6bfe09dd2edb9.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "a3713b22e981b6f6daa168cfb1c620630d506200527fa715f98bf6fe81626d2c",
+      "synthesisText": "It's Ben's teddy.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "f5adadd452b2b5fb1f",
+    "lang": "en",
+    "text": "Does Mia want a teddy?",
+    "group": "wish-question",
+    "key": "en|does mia want a teddy",
+    "file": "u5-natural-v1-f5adadd452b2b5fb1f.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "73b45dbac862c4c6a9f28af02547ada68b76be3bff65b5e9a99b539e533889c2",
+      "synthesisText": "Does Meeya want a teddy?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only",
+      "phoneticAlias": {
+        "display": "Mia",
+        "synthesis": "Meeya",
+        "pronunciation": "MEE-uh /ˈmiːə/; same intended name pronunciation, no extra spoken word"
+      }
+    }
+  },
+  {
+    "id": "1f9494d51a2de2b254",
+    "lang": "en",
+    "text": "It's Mia's teddy.",
+    "group": "party-ownership",
+    "key": "en|it's mia's teddy",
+    "file": "u5-natural-v1-1f9494d51a2de2b254.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "6cb841819342ed333bf10a6015bcd4c18f5d7b816d004fa4c38f5e510aab3e7e",
+      "synthesisText": "It's Mia's teddy.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "904af31f7599cc3381",
+    "lang": "en",
+    "text": "I want a plane.",
+    "group": "wish",
+    "key": "en|i want a plane",
+    "file": "u5-natural-v1-904af31f7599cc3381.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "db69d230f7b35f3188d2b165deb965004e30adc5334aa7da0bba1c0df2b1b970",
+      "synthesisText": "I want a plane.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "d101bf6ece5c39b57a",
+    "lang": "en",
+    "text": "Ben wants a plane.",
+    "group": "wish",
+    "key": "en|ben wants a plane",
+    "file": "u5-natural-v1-d101bf6ece5c39b57a.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "dcf479764ef2171ee7900bd70e46955c8ef69e3f000fdfa0bf5aa35dad99fc3b",
+      "synthesisText": "Ben wants a plane.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "3aaf2a24e2dd094981",
+    "lang": "en",
+    "text": "Mia wants a plane.",
+    "group": "wish",
+    "key": "en|mia wants a plane",
+    "file": "u5-natural-v1-3aaf2a24e2dd094981.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "23b419db1a05689bb5fdda278ed0278832ee49c30031b6132f944203e3030445",
+      "synthesisText": "Mia wants a plane.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally. The name Mia is pronounced MEE-uh, two syllables. Plane is a noun that rhymes with train; clearly finish the final n sound.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "ec757e60cc075297b2",
+    "lang": "en",
+    "text": "Does Ben want a plane?",
+    "group": "wish-question",
+    "key": "en|does ben want a plane",
+    "file": "u5-natural-v1-ec757e60cc075297b2.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "0c3c734c3a12de9c3eb0ed543e1055c0ffa0900e73998c482dbeed5b164ff783",
+      "synthesisText": "Does Ben want a plane?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "0bec2d445feb5912d5",
+    "lang": "en",
+    "text": "It's Ben's plane.",
+    "group": "party-ownership",
+    "key": "en|it's ben's plane",
+    "file": "u5-natural-v1-0bec2d445feb5912d5.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "f181920db88ad08422b2626fcd680a575d945d49a5f04656ffe6b9714dbf6d7a",
+      "synthesisText": "It's Ben's plane.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "165b7a86860dfe1f21",
+    "lang": "en",
+    "text": "Does Mia want a plane?",
+    "group": "wish-question",
+    "key": "en|does mia want a plane",
+    "file": "u5-natural-v1-165b7a86860dfe1f21.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "f98129192463e8f05138a233def7523d26c47bcb4301061af3ad7679c96c9ada",
+      "synthesisText": "Does Meeya want a plane?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only",
+      "phoneticAlias": {
+        "display": "Mia",
+        "synthesis": "Meeya",
+        "pronunciation": "MEE-uh /ˈmiːə/; same intended name pronunciation, no extra spoken word"
+      }
+    }
+  },
+  {
+    "id": "18941a652a6eb4ca5d",
+    "lang": "en",
+    "text": "I want a ball.",
+    "group": "wish",
+    "key": "en|i want a ball",
+    "file": "u5-natural-v1-18941a652a6eb4ca5d.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "2d175ea80cb13dc0e2e1378dc526a66467743e590ecd763effee69cfbb3aa3c7",
+      "synthesisText": "I want a ball.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "f4d4e1ff63d53baacb",
+    "lang": "en",
+    "text": "Ben wants a ball.",
+    "group": "wish",
+    "key": "en|ben wants a ball",
+    "file": "u5-natural-v1-f4d4e1ff63d53baacb.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "f8dc196cfe4755080d3cc5fa6ff3cb80552b309eb5d807772dad2553650b92e4",
+      "synthesisText": "Ben wants a ball.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "133d6df6c315a8a283",
+    "lang": "en",
+    "text": "Mia wants a ball.",
+    "group": "wish",
+    "key": "en|mia wants a ball",
+    "file": "u5-natural-v1-133d6df6c315a8a283.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "88681c19bc7780ed29e3ba7e0fa3ae8fda380696a351a641ed29cf63fde91197",
+      "synthesisText": "Mia wants a ball.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally. The name Mia is pronounced MEE-uh, two syllables. Pronounce ball with the vowel in tall, not bowl or pool.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "2b949d874573497623",
+    "lang": "en",
+    "text": "Does Ben want a ball?",
+    "group": "wish-question",
+    "key": "en|does ben want a ball",
+    "file": "u5-natural-v1-2b949d874573497623.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "62fa80bdf2a702e89bab3181b9549f96b432d6e10031d09568b11057cdad44d8",
+      "synthesisText": "Does Ben want a ball?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "c215a8588681a48eaf",
+    "lang": "en",
+    "text": "Does Mia want a ball?",
+    "group": "wish-question",
+    "key": "en|does mia want a ball",
+    "file": "u5-natural-v1-c215a8588681a48eaf.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "2f9569a26928b535f82e7407670bf164e12063b5c8e914344db10ab15ae26b37",
+      "synthesisText": "Does Mia want a ball?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "b766f0de587f65fbf4",
+    "lang": "en",
+    "text": "It's Mia's ball.",
+    "group": "party-ownership",
+    "key": "en|it's mia's ball",
+    "file": "u5-natural-v1-b766f0de587f65fbf4.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "63cfcd30e5a4743e207e2ff2a60633f3291bc4494bb471b21f8b67a319c98edf",
+      "synthesisText": "It's Mia's ball.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "9ba21230803d04a738",
+    "lang": "en",
+    "text": "I don't want a plane.",
+    "group": "wish-grammar",
+    "key": "en|i don't want a plane",
+    "file": "u5-natural-v1-9ba21230803d04a738.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "bf1271eede6b79474c0d7f0a4b4ecb0a410d7fbf0d21cacb50725cb2c1460583",
+      "synthesisText": "I don't want a plane.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "cfd5ee7c7a7e0a6c10",
+    "lang": "en",
+    "text": "I don't want a teddy.",
+    "group": "wish-grammar",
+    "key": "en|i don't want a teddy",
+    "file": "u5-natural-v1-cfd5ee7c7a7e0a6c10.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "3adc2745ce8f3fc5a5cb805327fab2bf1f2f4a0a63dc4420a55f5cbd16ea117d",
+      "synthesisText": "I don't want a teddy.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "1a2fa00775f22e72ad",
+    "lang": "en",
+    "text": "Ben doesn't want a teddy.",
+    "group": "wish-grammar",
+    "key": "en|ben doesn't want a teddy",
+    "file": "u5-natural-v1-1a2fa00775f22e72ad.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "3c469b98d9ea0690439c3268dc3b121dbd3789edd8bf5eebadec7781f7865c02",
+      "synthesisText": "Ben doesn't want a teddy.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "e0262f82700bcca19b",
+    "lang": "en",
+    "text": "Mia doesn't want a plane.",
+    "group": "wish-grammar",
+    "key": "en|mia doesn't want a plane",
+    "file": "u5-natural-v1-e0262f82700bcca19b.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "396938542aa6f4573938c90d2410aa1a35ec8efaf45820ace739c8bca82c38e7",
+      "synthesisText": "Mia doesn't want a plane.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "4352fa696cac7a8b1a",
+    "lang": "en",
+    "text": "Does he want a robot?",
+    "group": "wish-grammar",
+    "key": "en|does he want a robot",
+    "file": "u5-natural-v1-4352fa696cac7a8b1a.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "a300cc1303f3a9dcefa8bd9b1781875b463bcc18c16e7970f4f29ce060adad1d",
+      "synthesisText": "Does he want a robot?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "0516d8ca187c02fbce",
+    "lang": "en",
+    "text": "Does she want a doll?",
+    "group": "wish-grammar",
+    "key": "en|does she want a doll",
+    "file": "u5-natural-v1-0516d8ca187c02fbce.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "3a049d6da2e8f8af4f5b0c40751b518e868217fc15f000a0a8cf882b4db37752",
+      "synthesisText": "Does she want a doll?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "089b63f777ddefd864",
+    "lang": "en",
+    "text": "He wants a robot.",
+    "group": "wish-grammar",
+    "key": "en|he wants a robot",
+    "file": "u5-natural-v1-089b63f777ddefd864.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "825b0d6f7ea831f740a610909e989fb2393bdc5a5fbd5b1abf8d519f72d6a0c8",
+      "synthesisText": "He wants a robot.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "72a19ba813a1738eb5",
+    "lang": "en",
+    "text": "She wants a doll.",
+    "group": "wish-grammar",
+    "key": "en|she wants a doll",
+    "file": "u5-natural-v1-72a19ba813a1738eb5.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "2b2e059faf2eba929d4060f9d7dbfb4eec1a30e3e2e76a52f3b0ce5bc9d08251",
+      "synthesisText": "She wants a doll.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "1d382d2df380ae980f",
+    "lang": "en",
+    "text": "He doesn't want a teddy.",
+    "group": "wish-grammar",
+    "key": "en|he doesn't want a teddy",
+    "file": "u5-natural-v1-1d382d2df380ae980f.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "a1866f4173852edf09b4f65cab8f21be036f4c06a4f98d83c729187e5e76d993",
+      "synthesisText": "He doesn't want a teddy.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "2c9978c8097c656f1d",
+    "lang": "en",
+    "text": "She doesn't want a plane.",
+    "group": "wish-grammar",
+    "key": "en|she doesn't want a plane",
+    "file": "u5-natural-v1-2c9978c8097c656f1d.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "6e5953c816aa987748c6ef62454861df874eda6e601e16d8f9a3755895ebe7e7",
+      "synthesisText": "She doesn't want a plane.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "a204f7e483d1106418",
+    "lang": "en",
+    "text": "What does Ben want?",
+    "group": "wish-grammar",
+    "key": "en|what does ben want",
+    "file": "u5-natural-v1-a204f7e483d1106418.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "b656b09cade99fe1ab8c5803aa742230ce279259bd184b99accd58ff7c3c1738",
+      "synthesisText": "What does Ben want?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "cf676950dd6e66f40f",
+    "lang": "en",
+    "text": "What does Mia want?",
+    "group": "wish-grammar",
+    "key": "en|what does mia want",
+    "file": "u5-natural-v1-cf676950dd6e66f40f.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "409a98b8addb996ca92eb58c0f2648393a3701d90e3975c547bc570d071bb9d0",
+      "synthesisText": "What does Mia want?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "d78fac9d47d06b2ff7",
+    "lang": "en",
+    "text": "What does he want?",
+    "group": "wish-grammar",
+    "key": "en|what does he want",
+    "file": "u5-natural-v1-d78fac9d47d06b2ff7.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "e82607d15e75a21d28c8f26005e0fa1696085b2d5567c3856c65a6e086ecb83e",
+      "synthesisText": "What does he want?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "f7f3fba99c1232b1ac",
+    "lang": "en",
+    "text": "What does she want?",
+    "group": "wish-grammar",
+    "key": "en|what does she want",
+    "file": "u5-natural-v1-f7f3fba99c1232b1ac.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "f9df88231f2771f304d7c3dbb493c84ff847396e455849a079424888db837e9e",
+      "synthesisText": "What does she want?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "ecf6748de8c0abbcb2",
+    "lang": "en",
+    "text": "Yes, he does.",
+    "group": "wish-grammar",
+    "key": "en|yes, he does",
+    "file": "u5-natural-v1-ecf6748de8c0abbcb2.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "930fe346c4a1787e8d6e7f55ef403d7da49169bd618a90879f30f4ed310ee9e5",
+      "synthesisText": "Yes, he does.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "e500e926c2631bb8c4",
+    "lang": "en",
+    "text": "No, he doesn't.",
+    "group": "wish-grammar",
+    "key": "en|no, he doesn't",
+    "file": "u5-natural-v1-e500e926c2631bb8c4.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "be77ca8f5ea37fe0c641e0f2c6833a9ec8b5e8b19e24b8b356fb3769b8272492",
+      "synthesisText": "No, he doesn't.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "4055a73ee04ff0ad63",
+    "lang": "en",
+    "text": "Yes, she does.",
+    "group": "wish-grammar",
+    "key": "en|yes, she does",
+    "file": "u5-natural-v1-4055a73ee04ff0ad63.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "b52acc6ece65723f28f3b1b2dd8eeff0716fd533eebeda2ffa4d12b1c21be1a0",
+      "synthesisText": "Yes, she does.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "20282d4517b658ce02",
+    "lang": "en",
+    "text": "No, she doesn't.",
+    "group": "wish-grammar",
+    "key": "en|no, she doesn't",
+    "file": "u5-natural-v1-20282d4517b658ce02.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "63678d279572d4357b95bd535d013f2477c27ced48f60377e25393f3f6eabbc1",
+      "synthesisText": "No, she doesn't.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "beff89704771c4dc92",
+    "lang": "en",
+    "text": "The robot is for Ben. The doll is for Mia.",
+    "group": "story-and-party",
+    "key": "en|the robot is for ben. the doll is for mia",
+    "file": "u5-natural-v1-beff89704771c4dc92.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "6b4d3dcfc6dee89a357ff10d122a89df464f82e87b625afd6e4ddb3ea0e7af03",
+      "synthesisText": "The robot is for Ben. The doll is for Mia.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "cc99c1120bc6af8938",
+    "lang": "en",
+    "text": "Ben has got the doll. Mia has got the robot. These are the wrong presents.",
+    "group": "story-and-party",
+    "key": "en|ben has got the doll. mia has got the robot. these are the wrong presents",
+    "file": "u5-natural-v1-cc99c1120bc6af8938.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "deb2a059b198725f8e5babd20bc473f9e5f17f5406776903366fe19d72906806",
+      "synthesisText": "Ben has got the doll. Mia has got the robot. These are the wrong presents.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "6d922dbd81da5c5016",
+    "lang": "en",
+    "text": "The robot is Ben's. The doll is Mia's. They give the toys back.",
+    "group": "story-and-party",
+    "key": "en|the robot is ben's. the doll is mia's. they give the toys back",
+    "file": "u5-natural-v1-6d922dbd81da5c5016.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "30b169d6f2d18ccd8321c297f4e92d3925b8920d8be60938d76e65d9a626439b",
+      "synthesisText": "The robot is Ben's. The doll is Mia's. They give the toys back.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "310b135a1679809f42",
+    "lang": "en",
+    "text": "They say sorry. Now Ben and Mia are happy.",
+    "group": "story-and-party",
+    "key": "en|they say sorry. now ben and mia are happy",
+    "file": "u5-natural-v1-310b135a1679809f42.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "20ae8868bdd29e0c6038d0fafc805d5daedad658420f0b6f7d7c2a9c45ce693a",
+      "synthesisText": "They say sorry. Now Ben and Mia are happy.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "53535dd6294555851c",
+    "lang": "en",
+    "text": "I'm sorry, Ben.",
+    "group": "story-and-party",
+    "key": "en|i'm sorry, ben",
+    "file": "u5-natural-v1-53535dd6294555851c.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "46a06a890885fa87d810884e70919cf7bd04660d33bf9dab60b7d4a696f61118",
+      "synthesisText": "I'm sorry, Ben.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "3055083fecb83b14c8",
+    "lang": "en",
+    "text": "I'm sorry, Mia.",
+    "group": "story-and-party",
+    "key": "en|i'm sorry, mia",
+    "file": "u5-natural-v1-3055083fecb83b14c8.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "e0ed0809647a91690d4c5f3b34bd91131662ebee40d8d7a47d917261c307168d",
+      "synthesisText": "I'm sorry, Mia.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "7ad1983f7946d06535",
+    "lang": "en",
+    "text": "That's OK.",
+    "group": "story-and-party",
+    "key": "en|that's ok",
+    "file": "u5-natural-v1-7ad1983f7946d06535.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "813c1e342667dee8be09f80452470aad44c5442fb467e9c750b58993d357e43f",
+      "synthesisText": "That's OK.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "6f286c4d55027c26b7",
+    "lang": "en",
+    "text": "Here you are.",
+    "group": "story-and-party",
+    "key": "en|here you are",
+    "file": "u5-natural-v1-6f286c4d55027c26b7.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "reused byte-identical approved complete Unit 4 individual utterance; external silence already present",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "sha256": "93d2658db59c328859994c4127e6505a7e55f4f1a7f3101811d8ad398bfcb030",
+      "method": "reused byte-identical approved complete Unit 4 individual utterance; external silence already present",
+      "sourceFile": "work/unit3-site/dist/unit4/audio/g25-natural-v3-6f286c4d55027c26b7.mp3",
+      "sourceSha256": "93d2658db59c328859994c4127e6505a7e55f4f1a7f3101811d8ad398bfcb030",
+      "languageCode": "en-GB",
+      "synthesisText": "Here you are."
+    }
+  },
+  {
+    "id": "9c7c9669f2dfbc70ca",
+    "lang": "en",
+    "text": "Thank you.",
+    "group": "story-and-party",
+    "key": "en|thank you",
+    "file": "u5-natural-v1-9c7c9669f2dfbc70ca.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "reused byte-identical approved complete Unit 4 individual utterance; external silence already present",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "sha256": "f604abf0662408d959a5491ea6d9a787b1ab0245423036262eee0fc05a61e45c",
+      "method": "reused byte-identical approved complete Unit 4 individual utterance; external silence already present",
+      "sourceFile": "work/unit3-site/dist/unit4/audio/g25-natural-v3-9c7c9669f2dfbc70ca.mp3",
+      "sourceSha256": "f604abf0662408d959a5491ea6d9a787b1ab0245423036262eee0fc05a61e45c",
+      "languageCode": "en-GB",
+      "synthesisText": "Thank you."
+    }
+  },
+  {
+    "id": "bad5784f512f50d83a",
+    "lang": "en",
+    "text": "Happy birthday!",
+    "group": "story-and-party",
+    "key": "en|happy birthday",
+    "file": "u5-natural-v1-bad5784f512f50d83a.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "dadfe81bc07416cbbda0491dc1c8508f6eb91fbc5738b565a02652c2d035ea56",
+      "synthesisText": "Happy birthday!",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "0a4835afef40ed5875",
+    "lang": "en",
+    "text": "This present is for you.",
+    "group": "story-and-party",
+    "key": "en|this present is for you",
+    "file": "u5-natural-v1-0a4835afef40ed5875.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "095e9b377fbe1d1aafb9900a3c273cfc04974f3975129519a349d512cfe4a6fa",
+      "synthesisText": "This present is for you.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "6e8ff29536323be886",
+    "lang": "en",
+    "text": "I like my present.",
+    "group": "story-and-party",
+    "key": "en|i like my present",
+    "file": "u5-natural-v1-6e8ff29536323be886.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "34525ccdafc5191a5b4af6c736a0437a19a7f309675e1d4a768582393000b44d",
+      "synthesisText": "I like my present.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "fef6beb0a7ea519fe0",
+    "lang": "en",
+    "text": "The eyes are circles.",
+    "group": "shapes",
+    "key": "en|the eyes are circles",
+    "file": "u5-natural-v1-fef6beb0a7ea519fe0.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "f488dd21b8e6671602b48f85d578954b63684885fc73da95cfd114f7838402e5",
+      "synthesisText": "The eyes are circles.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "ffacc32dd57da11391",
+    "lang": "en",
+    "text": "The body is a square.",
+    "group": "shapes",
+    "key": "en|the body is a square",
+    "file": "u5-natural-v1-ffacc32dd57da11391.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "69fa12972178e401525e215686b6e6cc92c0a62b99ebe57116e7b21952e690da",
+      "synthesisText": "The body is a square.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "6efe0550e79e4f302e",
+    "lang": "en",
+    "text": "The mouth is a rectangle.",
+    "group": "shapes",
+    "key": "en|the mouth is a rectangle",
+    "file": "u5-natural-v1-6efe0550e79e4f302e.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "ce4f65335271ae506e5d0418cad0d5f19d2eec9a7f8ed309327e7e1eec6f88d1",
+      "synthesisText": "The mouth is a rectangle.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "69599e3f948840ab64",
+    "lang": "en",
+    "text": "The hat is a triangle.",
+    "group": "shapes",
+    "key": "en|the hat is a triangle",
+    "file": "u5-natural-v1-69599e3f948840ab64.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "5352e1eb99a001a3b2aad484247d76a8817f43183dae0d29aeb672c49bc75a04",
+      "synthesisText": "The hat is a triangle.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "e2d7dace916b9b45d7",
+    "lang": "en",
+    "text": "I can see a circle.",
+    "group": "shapes",
+    "key": "en|i can see a circle",
+    "file": "u5-natural-v1-e2d7dace916b9b45d7.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "ae2099940427559eb779b922ad7dd61f437247267b517d7e88e9b0c236ddf4fd",
+      "synthesisText": "I can see a circle.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "caa6ad456953efeb4f",
+    "lang": "en",
+    "text": "I can see a square.",
+    "group": "shapes",
+    "key": "en|i can see a square",
+    "file": "u5-natural-v1-caa6ad456953efeb4f.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "0abc7a9664117b3dbe1a61363bc93cfe877f95dd78263d841122d3357cff77aa",
+      "synthesisText": "I can see a square.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "2c05b1144f19a42576",
+    "lang": "en",
+    "text": "I can see a triangle.",
+    "group": "shapes",
+    "key": "en|i can see a triangle",
+    "file": "u5-natural-v1-2c05b1144f19a42576.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "b505140b75cc5057d84b0e6fa706cc0a199420aaa27e122b5bd677f51e3d9a12",
+      "synthesisText": "I can see a triangle.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "8198434b35a76ba205",
+    "lang": "en",
+    "text": "I can see a rectangle.",
+    "group": "shapes",
+    "key": "en|i can see a rectangle",
+    "file": "u5-natural-v1-8198434b35a76ba205.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "00a578b4be91be396b69548c74e79f539514f5222a5586a655811b02565ab2eb",
+      "synthesisText": "I can see a rectangle.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "573d6a0e1f291ca585",
+    "lang": "en",
+    "text": "His name is Ben. He is seven. He has got two robots.",
+    "group": "assessment",
+    "key": "en|his name is ben. he is seven. he has got two robots",
+    "file": "u5-natural-v1-573d6a0e1f291ca585.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "494752bd272856a32e9beb571d1dbf3b209efd4d5aae107502b9365e699113ae",
+      "synthesisText": "His name is Ben. He is seven. He has got two robots.",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "1302e8103b995d5755",
+    "lang": "en",
+    "text": "What's your name?",
+    "group": "assessment",
+    "key": "en|what's your name",
+    "file": "u5-natural-v1-1302e8103b995d5755.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "b49ea5c47d7acda206f1f5c46343f88696728006289305b3ca8a33dfa3b944ce",
+      "synthesisText": "What's your name?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "981a68d0a2b0a09bb6",
+    "lang": "en",
+    "text": "How old are you?",
+    "group": "assessment",
+    "key": "en|how old are you",
+    "file": "u5-natural-v1-981a68d0a2b0a09bb6.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "908237d93935564d0de611e41510d2c9f33807946e5f1a0365fa7d6782868aeb",
+      "synthesisText": "How old are you?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "3295ac7aae66222876",
+    "lang": "en",
+    "text": "What's your favourite toy?",
+    "group": "assessment",
+    "key": "en|what's your favourite toy",
+    "file": "u5-natural-v1-3295ac7aae66222876.mp3",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-lite-preview-tts",
+      "voice": "Sulafat",
+      "languageCode": "en-GB",
+      "sha256": "e1bee053dc59717350d531bf876a45f8a63b6ce3c298b633977c746a675691f2",
+      "synthesisText": "What's your favourite toy?",
+      "prompt": "Clear, natural British English for primary-school listening and speaking. Normal conversational pace, natural stress and rhythm. No stretched sounds or syllable-by-syllable reading. Read the text once. No music. Speak only the supplied words, without fillers. Finish every word naturally.",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "550eee6e76b5b88af2",
+    "lang": "zh",
+    "text": "欢迎来到小黄鸭的生日礼物派对！先认识玩具，再帮朋友选礼物。",
+    "group": "guide",
+    "key": "zh|欢迎来到小黄鸭的生日礼物派对！先认识玩具，再帮朋友选礼物",
+    "file": "u5-natural-v1-550eee6e76b5b88af2.mp3",
+    "voice": "Sulafat",
+    "languageCode": "cmn-CN",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "cmn-CN",
+      "sha256": "4bd1aeaacbd4f49ff7dbfd45e274e4122997621aff153a787755faa80eef163b",
+      "synthesisText": "欢迎来到小黄鸭的生日礼物派对！先认识玩具，再帮朋友选礼物。",
+      "prompt": "温暖、清晰的标准普通话，语速略慢而自然，不要背景音乐。",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "173018635bf82f3f20",
+    "lang": "zh",
+    "text": "听一听，找到对应的玩具。可以再听一次。",
+    "group": "guide",
+    "key": "zh|听一听，找到对应的玩具。可以再听一次",
+    "file": "u5-natural-v1-173018635bf82f3f20.mp3",
+    "voice": "Sulafat",
+    "languageCode": "cmn-CN",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "cmn-CN",
+      "sha256": "f8a518727873c5fe7a24889ee7c9ccaa2152d3194b857059cf059e5ac3ee89ff",
+      "synthesisText": "听一听，找到对应的玩具。可以再听一次。",
+      "prompt": "温暖、清晰的标准普通话，语速略慢而自然，不要背景音乐。",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "3c92805be05540b4fc",
+    "lang": "zh",
+    "text": "这是谁的？先找到主人，再把礼物送回去。",
+    "group": "guide",
+    "key": "zh|这是谁的？先找到主人，再把礼物送回去",
+    "file": "u5-natural-v1-3c92805be05540b4fc.mp3",
+    "voice": "Sulafat",
+    "languageCode": "cmn-CN",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "cmn-CN",
+      "sha256": "2fe20122ea681f868133c2fc512c718a3d88010387122f19b05ef22383cc885c",
+      "synthesisText": "这是谁的？先找到主人，再把礼物送回去。",
+      "prompt": "温暖、清晰的标准普通话，语速略慢而自然，不要背景音乐。",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "c6eccc8ee100fd9631",
+    "lang": "zh",
+    "text": "看清谁在说话。同一件礼物，换个人介绍，说法也会变化。",
+    "group": "guide",
+    "key": "zh|看清谁在说话。同一件礼物，换个人介绍，说法也会变化",
+    "file": "u5-natural-v1-c6eccc8ee100fd9631.mp3",
+    "voice": "Sulafat",
+    "languageCode": "cmn-CN",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "cmn-CN",
+      "sha256": "5b6ada1fd4df41885d1ab767db850033aa1fa5e45df7e3522908cafc92e8f7bc",
+      "synthesisText": "看清谁在说话。同一件礼物，换个人介绍，说法也会变化。",
+      "prompt": "温暖、清晰的标准普通话，语速略慢而自然，不要背景音乐。",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "16be0a746d18323dbf",
+    "lang": "zh",
+    "text": "先听朋友的心愿，再选他或者她想要的礼物。",
+    "group": "guide",
+    "key": "zh|先听朋友的心愿，再选他或者她想要的礼物",
+    "file": "u5-natural-v1-16be0a746d18323dbf.mp3",
+    "voice": "Sulafat",
+    "languageCode": "cmn-CN",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "cmn-CN",
+      "sha256": "a119691c98cf19846efa08ab4d871e35d3bb255654e282779d2701b7ef2388c1",
+      "synthesisText": "先听朋友的心愿，再选他或者她想要的礼物。",
+      "prompt": "温暖、清晰的标准普通话，语速略慢而自然，不要背景音乐。",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "88b0c8241f9cd2081e",
+    "lang": "zh",
+    "text": "用四种形状，制作一张生日贺卡。",
+    "group": "guide",
+    "key": "zh|用四种形状，制作一张生日贺卡",
+    "file": "u5-natural-v1-88b0c8241f9cd2081e.mp3",
+    "voice": "Sulafat",
+    "languageCode": "cmn-CN",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "cmn-CN",
+      "sha256": "4ce6ac20f165f2863373513b3e46d332dda88e76be025a67c4d44e3f135c7fc3",
+      "synthesisText": "用四种形状，制作一张生日贺卡。",
+      "prompt": "温暖、清晰的标准普通话，语速略慢而自然，不要背景音乐。",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "c2847f5bdafffbb347",
+    "lang": "zh",
+    "text": "听完整单词，注意开头轻轻呼气的声音。",
+    "group": "guide",
+    "key": "zh|听完整单词，注意开头轻轻呼气的声音",
+    "file": "u5-natural-v1-c2847f5bdafffbb347.mp3",
+    "voice": "Sulafat",
+    "languageCode": "cmn-CN",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "cmn-CN",
+      "sha256": "e6c3051b6abc0224dad472e4e5518748845bfccf756251aa48adfc689a4c5a28",
+      "synthesisText": "听完整单词，注意开头轻轻呼气的声音。",
+      "prompt": "温暖、清晰的标准普通话，语速略慢而自然，不要背景音乐。",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "a67582a2526543f150",
+    "lang": "zh",
+    "text": "送错礼物没关系。核对主人，归还礼物，再说声对不起。",
+    "group": "guide",
+    "key": "zh|送错礼物没关系。核对主人，归还礼物，再说声对不起",
+    "file": "u5-natural-v1-a67582a2526543f150.mp3",
+    "voice": "Sulafat",
+    "languageCode": "cmn-CN",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "cmn-CN",
+      "sha256": "652e81ee161aa76df01870a8ef80d6d8c91e3a024a37eaf19b79c25270ea458e",
+      "synthesisText": "送错礼物没关系。核对主人，归还礼物，再说声对不起。",
+      "prompt": "温暖、清晰的标准普通话，语速略慢而自然，不要背景音乐。",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "id": "7cee82997491096678",
+    "lang": "zh",
+    "text": "练习完成只记录学习进度，听写掌握需要家长在小抽屉确认。",
+    "group": "guide",
+    "key": "zh|练习完成只记录学习进度，听写掌握需要家长在小抽屉确认",
+    "file": "u5-natural-v1-7cee82997491096678.mp3",
+    "voice": "Sulafat",
+    "languageCode": "cmn-CN",
+    "revision": "u5-natural-v1",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "generationMethod": "individual complete synthesis; entire PCM retained; external silence only",
+    "provenance": {
+      "model": "gemini-2.5-flash-tts",
+      "voice": "Sulafat",
+      "languageCode": "cmn-CN",
+      "sha256": "52bde21c08e346dbe9bed5f1dfa7331b8b601535fee5bf94071b0ce845140f3d",
+      "synthesisText": "练习完成只记录学习进度，听写掌握需要家长在小抽屉确认。",
+      "prompt": "温暖、清晰的标准普通话，语速略慢而自然，不要背景音乐。",
+      "method": "individual complete synthesis; entire PCM retained; external silence only"
+    }
+  },
+  {
+    "text": "Whose robot is it?",
+    "file": "gemini-7b7842b52b7c9757.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "id": "u5-review-c63d3d1ad01aaac6",
+    "group": "review",
+    "revision": "u5-review-v2",
+    "key": "en|whose robot is it",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "sha256": "e94986444f5fcd640d04a0721df8daef034cd926fd36742807e6c90b5b791aa6"
+  },
+  {
+    "text": "Mia has Ben's robot. Who gets the robot back?",
+    "file": "gemini-b5756c51bb3c40c9.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "id": "u5-review-85c07abab2de0e65",
+    "group": "review",
+    "revision": "u5-review-v2",
+    "key": "en|mia has ben's robot. who gets the robot back",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "sha256": "85f32ea226353e5daf2990a239dce19373c9fe9802dc384ec26d1d956dbc1f1a"
+  },
+  {
+    "text": "Mia says, “I'm sorry, Ben.” What can Ben say?",
+    "file": "gemini-3e1557a3c0c29918.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "id": "u5-review-6433d302a6f238c0",
+    "group": "review",
+    "revision": "u5-review-v2",
+    "key": "en|mia says, “i'm sorry, ben.” what can ben say",
+    "model": "gemini-2.5-flash-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "sha256": "f876c81a3e6f685dc026fc991e66aa971a19e86d9dbbb47a0399b123558f0462"
+  },
+  {
+    "text": "Does it start with the sound in happy?",
+    "file": "gemini-b0b8394faab9ec8d.mp3",
+    "lang": "en",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "id": "u5-review-be998f4ce61c8381",
+    "group": "review",
+    "revision": "u5-review-v2",
+    "key": "en|does it start with the sound in happy",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    },
+    "sha256": "cdd34c4a04a1e2a809a0b1fbc67f5cd0f96bf36945baedd5f041ebb60536e41d"
+  }
+]

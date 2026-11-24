@@ -1,0 +1,58 @@
+const cloud=window.PowerUpCloud;
+const base=new URL('.',import.meta.url),link=path=>new URL(path,base).href;
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const style=document.createElement('link');style.rel='stylesheet';style.href=link('cloud.css?v=2');document.head.append(style);
+const dialog=document.createElement('dialog');dialog.id='familyDialog';dialog.className='family-dialog';dialog.setAttribute('aria-label','家庭账号与设备连接');document.body.append(dialog);
+let walletOptIn=null;
+let authMode='login',page='home',device=null,invite='',handling=false,message='';
+const incoming=new URL(location.href).searchParams.get('invite');
+function mount(){
+ const bottom=document.querySelector('.site-nav-bottom');
+ if(bottom&&!bottom.querySelector('[data-family-open]')){bottom.innerHTML='<div class="family-sidebar-account"><button type="button" data-family-open><span class="family-dot"></span><span class="family-account-label">连接家庭</span></button><small class="family-account-hint">游客练习，不记录进度</small></div>';}
+ const bar=document.querySelector('.site-mobilebar');if(bar&&!bar.querySelector('[data-family-open]')){const b=document.createElement('button');b.type='button';b.className='family-mini';b.dataset.familyOpen='';b.setAttribute('aria-label','打开家庭账号');b.textContent='家庭';bar.append(b);}
+ updateBadges();
+}
+function updateBadges(){const s=cloud.state(),m=s.snapshot?.member;document.querySelectorAll('.family-account-label').forEach(el=>el.textContent=m?m.name+' · '+(m.role==='parent'?'家长':'孩子'):'连接家庭');document.querySelectorAll('.family-account-hint').forEach(el=>el.textContent=s.status==='restoring'||s.status==='connecting'?'正在恢复家庭连接…':s.status==='error'?'连接暂未恢复，可重试':m?'家庭学习记录已连接':'游客练习，不记录进度');document.querySelectorAll('.family-dot').forEach(el=>el.classList.toggle('connected',s.status==='connected'));}
+function shell(html){dialog.innerHTML=`<button class="family-close" data-family-action="close" aria-label="关闭家庭窗口">×</button>${html}${message?`<p class="family-message" role="status">${esc(message)}</p>`:''}`;}
+function field(name,label,type='text',extra=''){return `<label>${label}<input name="${name}" type="${type}" ${extra}></label>`;}
+function walletOption(checked){return `<label class="family-wallet-option"><input type="checkbox" name="enableWallet" ${checked?'checked':''}><span><strong>连接枝枝钱包，启用枝枝币奖励（可选）</strong><small>默认只使用学习和贴纸；勾选后同步开通钱包，3张进化贴纸可兑换5枚枝枝币。</small></span></label>`;}
+function render(){
+ const s=cloud.state(),m=s.snapshot?.member;
+ dialog.dataset.familyLoading='false';
+ if(s.status==='restoring'||s.status==='connecting'){dialog.dataset.familyLoading='true';shell('<p class="family-eyebrow">家庭账号</p><h2>正在恢复家庭连接…</h2><p>练习页面可以继续使用，稍后会显示最新家庭状态。</p><button class="family-text" data-family-action="close">先回到练习</button>');return;}
+ if(page==='waiting'&&device){shell(`<p class="family-eyebrow">孩子设备连接</p><h2>请家长确认这台设备</h2><p>在家长手机的英语站，打开“连接孩子设备”，输入下面的10位连接码。</p><div class="family-device-code">${esc(device.code.slice(0,5))} ${esc(device.code.slice(5))}</div><p class="family-small">${esc(device.name)} · 连接码15分钟有效，只能连接为孩子角色。</p><button class="family-primary" data-family-action="check-device">家长已确认，打开学习档案</button><button class="family-text" data-family-action="home">返回账号页</button>`);return;}
+ if(!s.user||page==='auth'){
+  shell(`<p class="family-eyebrow">家庭学习账号</p><h2>${authMode==='signup'?'注册家长账号':'登录家庭学习档案'}</h2><p>使用邮箱注册或登录，保存单词进度和贴纸。已有枝枝钱包账号可直接登录，无需重复注册。</p><form data-family-form="auth">${field('email','家长邮箱','email','autocomplete="email" required')}${field('password','密码','password','minlength="4" autocomplete="'+(authMode==='signup'?'new-password':'current-password')+'" required placeholder="至少4位，可用数字"')}${authMode==='signup'?walletOption(walletOptIn??false):''}<button class="family-primary" type="submit">${authMode==='signup'?'注册家长账号':'登录家庭'}</button></form><button class="family-text" data-family-action="toggle-auth">${authMode==='signup'?'已有账号，去登录':'第一次来，注册账号'}</button><div class="family-divider"></div><h3>我是孩子</h3><p class="family-small">不需要邮箱，由家长确认连接码。iPad建议先添加到主屏幕，再从桌面图标连接。</p><form data-family-form="device">${field('deviceName','设备名称','text','maxlength="30" required placeholder="例如：枝枝的iPad"')}<button class="family-secondary" type="submit">获取孩子设备连接码</button></form><button class="family-text" data-family-action="close">继续游客练习，不记录进度</button>`);return;
+ }
+ if(s.status==='error'){shell(`<p class="family-eyebrow">家庭连接</p><h2>暂时没有连上家庭档案</h2><p>${esc(s.error)}</p><button class="family-primary" data-family-action="refresh">重新连接</button><button class="family-text" data-family-action="logout">退出此设备账号</button>`);return;}
+ if(!s.snapshot){
+  if(s.user.isAnonymous){shell(`<p class="family-eyebrow">孩子设备</p><h2>这台设备尚未连接家庭</h2><p>连接码由家长在英语站的家庭账号页确认。连接失效或设备被移除后，需要重新申请。</p><form data-family-form="device">${field('deviceName','设备名称','text','maxlength="30" required placeholder="例如：枝枝的iPad"')}<button class="family-primary">申请连接码</button></form><button class="family-text" data-family-action="refresh">家长已确认，刷新状态</button><button class="family-text" data-family-action="logout">退出设备连接，使用游客模式</button>`);return;}
+  shell(`<p class="family-eyebrow">家长账号已登录</p><h2>连接到孩子的家庭</h2><p>已有家庭的账号会自动连接。新家庭可直接建立学习档案，家人也可通过邀请加入。</p><form data-family-form="join">${field('invite','家庭邀请链接或邀请码','text','required value="'+esc(incoming||'')+'"')}${field('parentName','你的称呼','text','maxlength="30" required placeholder="例如：妈妈"')}<button class="family-primary">加入已有家庭</button></form><div class="family-divider"></div><h3>第一次建立家庭</h3><form data-family-form="create">${field('childName','孩子名字','text','maxlength="30" required placeholder="例如：枝枝"')}${field('parentName','你的称呼','text','maxlength="30" required placeholder="例如：爸爸"')}${walletOption(walletOptIn??s.registrationWalletOptIn??false)}<button class="family-secondary">建立家庭学习档案</button></form><button class="family-text" data-family-action="logout">退出账号</button>`);return;
+ }
+ const family=s.snapshot.wallet,enabled=s.snapshot.wallet_enabled===true;
+ shell(`<p class="family-eyebrow">${esc(family.name)}的家庭学习档案</p><h2>${esc(m.name)}，已连接</h2><p>单词掌握情况和贴纸与同一家庭共享。${m.role==='parent'?'由家长确认掌握和复习，孩子可以选择伙伴、收集进化造型。':'学习成果由家长确认，你可以选择贴纸、查看已获得的炫彩造型。'}${enabled?'已开启枝枝币奖励，可兑换符合条件的进化贴纸。':''}</p><div class="family-summary"><span>首次通过<strong>${s.snapshot.first_count} 个词</strong></span>${enabled?`<span>钱包余额<strong>${Number(family.balance)/200} 枚枝枝币</strong></span>`:`<span>收藏伙伴<strong>${s.snapshot.claims.length} 张贴纸</strong></span>`}</div><div class="family-links"><a href="${link('words.html?unit=all')}">单词小抽屉 →</a><a href="${link('stickers/')}">我的贴纸册 →</a>${enabled?`<a href="${cloud.walletUrl}" target="_blank" rel="noopener">打开枝枝钱包 ↗</a>`:""}</div>${m.role==='parent'?`<div class="family-divider"></div><h3>枝枝钱包（可选）</h3><form data-family-form="wallet">${walletOption(enabled)}<button class="family-secondary">保存钱包设置</button></form><p class="family-small">关闭联动后继续保留学习进度和贴纸；已有钱包及余额也会保留。</p><h3>连接孩子设备</h3><form data-family-form="connect">${field('code','孩子设备上的10位连接码','text','inputmode="numeric" pattern="[0-9 -]{10,15}" required placeholder="输入10位数字"')}<button class="family-primary">确认连接为孩子设备</button></form><h3>邀请另一位家长</h3><button class="family-secondary" data-family-action="invite">生成一次性家长邀请</button>${invite?`<label class="family-invite">邀请链接<input readonly value="${esc(invite)}" aria-label="一次性家长邀请链接"></label><button class="family-text" data-family-action="copy-invite">复制邀请链接</button>`:''}<h3>家庭成员与设备</h3><ul class="family-members">${s.snapshot.members.map(person=>`<li><span>${esc(person.name)}<small>${person.role==='parent'?'家长':'孩子设备'}</small></span>${person.user_id!==m.user_id?`<button data-family-remove="${person.user_id}">移除</button>`:'<small>当前账号</small>'}</li>`).join('')}</ul>`:''}<p class="family-small">学习进度和贴纸由家庭共享。孩子清除网站数据或退出后，需要重新连接；可选的钱包使用同一家庭账号。</p><button class="family-text" data-family-action="refresh">刷新家庭状态</button><button class="family-text" data-family-action="logout">退出此设备账号</button>`);
+}
+function open(options={}){window.dispatchEvent(new Event('powerup:close-navigation'));page='home';message='';if(options?.register){authMode='signup';walletOptIn=false;page='auth';}render();if(!dialog.open)dialog.showModal();}
+function parseInvite(value){const text=value.trim();if(/^[a-f0-9]{64}$/i.test(text))return text;try{return new URL(text).searchParams.get('invite')||text;}catch{return text;}}
+dialog.addEventListener('change',e=>{if(e.target.name==='enableWallet'&&e.target.closest('[data-family-form]')?.dataset.familyForm!=='wallet')walletOptIn=e.target.checked;});
+dialog.addEventListener('submit',async e=>{e.preventDefault();if(handling)return;const f=e.target,data=new FormData(f);handling=true;message='';f.querySelectorAll('button').forEach(b=>b.disabled=true);try{
+ switch(f.dataset.familyForm){
+  case 'auth':{const r=await cloud.authenticate(data.get('email'),data.get('password'),authMode==='signup',data.get('enableWallet')==='on');if(r.needsEmailConfirmation)message='注册信息已提交，请完成邮箱验证后登录。';else{page='home';message='已使用同一账号连接家庭。';}break;}
+  case 'create':await cloud.createFamily(data.get('childName'),data.get('parentName'),data.get('enableWallet')==='on');page='home';message=data.get('enableWallet')==='on'?'家庭学习档案和枝枝钱包已开通。':'家庭学习档案已建立，学习和贴纸功能可以开始使用。';break;
+  case 'wallet':await cloud.setWalletEnabled(data.get('enableWallet')==='on');message=data.get('enableWallet')==='on'?'已开启枝枝钱包联动，可以兑换已获得的奖励。':'已关闭钱包联动，学习进度和贴纸继续保留。';break;
+  case 'join':await cloud.joinFamily(parseInvite(data.get('invite')),data.get('parentName'));page='home';message='已加入家庭。';break;
+  case 'device':device=await cloud.requestDevice(data.get('deviceName'));page='waiting';break;
+  case 'connect':await cloud.connectDevice(data.get('code'));message='孩子设备已连接，同一家庭的学习档案和钱包可以共享。';break;
+ }
+ }catch(error){message=cloud.explain(error);}finally{handling=false;render();}});
+dialog.addEventListener('click',async e=>{const b=e.target.closest('button');if(!b||b.disabled||handling)return;const action=b.dataset.familyAction;if(!action&&!b.dataset.familyRemove)return;if(action==='close'){dialog.close();return;}if(action==='toggle-auth'){authMode=authMode==='login'?'signup':'login';walletOptIn=false;message='';render();return;}if(action==='home'){page='home';message='';render();return;}handling=true;try{
+ if(b.dataset.familyRemove){await cloud.removeMember(b.dataset.familyRemove);message='已移除该成员或设备。';}
+ else if(action==='logout'){await cloud.logout();device=null;invite='';page='home';message='已退出，当前可使用游客练习。';}
+ else if(action==='refresh'||action==='check-device'){await cloud.refresh();if(cloud.state().snapshot){page='home';device=null;message='家庭记录已更新。';}else message='尚未收到家长确认，请核对连接码。';}
+ else if(action==='invite'){const token=await cloud.createInvite();invite=link('family.html?invite='+encodeURIComponent(token));message='邀请24小时有效，只能使用一次。';}
+ else if(action==='copy-invite'){await navigator.clipboard.writeText(invite);message='邀请链接已复制。';}
+ }catch(error){message=cloud.explain(error);}finally{handling=false;render();}});
+document.addEventListener('click',e=>{if(e.target.closest('[data-family-open]'))open();});
+window.addEventListener('powerup:open-family',e=>open(e.detail));window.addEventListener('powerup:nav-ready',mount);
+cloud.onChange(s=>{updateBadges();if(dialog.open&&!handling&&page==='waiting'&&s.snapshot){page='home';device=null;message='设备已连接，欢迎回到学习档案。';render();}else if(dialog.open&&!handling&&dialog.dataset.familyLoading==='true'&&!['restoring','connecting'].includes(s.status))render();});
+setTimeout(mount,0);cloud.ready.then(()=>{mount();if(document.body.dataset.sitePage==='family')open();});
