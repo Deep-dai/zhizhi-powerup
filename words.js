@@ -1,7 +1,7 @@
-import {loadVocabularyVoice} from './vocabulary-voice.mjs?v=2';
-import {unitArt} from './units.mjs?v=5';
+import {loadVocabularyVoice} from './vocabulary-voice.mjs?v=4';
+import {unitArt} from './units.mjs?v=6';
 import {cloudMastered,masteryControl,cloudStatus,saveMastery,watchCloud} from './word-cloud.mjs?v=2';
-import {UNITS,VOCABULARY,CATEGORIES,SHEETS} from './words-data.mjs?v=7';
+import {UNITS,VOCABULARY,CATEGORIES,SHEETS} from './words-data.mjs?v=9';
 import {filterWords} from './word-mastery.mjs?v=1';
 
 const root=document.getElementById('drawer'),validKeys=new Set(VOCABULARY.map(w=>w.key)),byKey=new Map(VOCABULARY.map(w=>[w.key,w]));
@@ -29,7 +29,7 @@ function illustration(w){
 }
 function wordForm(w){return w.unit===1&&view.number===3&&w.countable?w.plural:w.word;}
 function exampleForm(w){return w.unit===1&&view.number===3&&w.countable?w.exampleMany:w.example;}
-function card(w){const pending=pendingMark?.key===w.key,done=pending?pendingMark.checked:Boolean(mastered[w.key]);return `<article class="vocab-card ${done?'is-mastered':''}" data-word-key="${safe(w.key)}"><div class="card-art">${artObserver?'':illustration(w)}</div><div class="card-copy"><div class="card-tags"><span class="unit-tag unit-${w.unit}">Unit ${w.unit}</span><span>${safe(w.category)}</span></div><h2 lang="en">${safe(wordForm(w))}${w.alias?`<small> / ${safe(w.alias)}</small>`:''}</h2><p class="word-meaning">${safe(w.zh)}</p><div class="voice-buttons">${w.wordAudio===false?'':`<button type="button" data-voice="word" data-key="${safe(w.key)}" aria-label="听词：${safe(wordForm(w))}">${w.audioWord?'▶ 听词组 '+safe(w.audioWord):'▶ 听词'}</button>`}${w.alias?`<button type="button" data-voice="alias" data-key="${safe(w.key)}">听另一种叫法</button>`:''}${w.unit===1&&w.art.kind==='unit1'?`<a class="practice-link" href="index.html?activity=word&amp;word=${encodeURIComponent(w.id)}">练这个词</a>`:''}</div></div>${w.example?`<div class="card-example"><p lang="en">${safe(exampleForm(w))}</p>${w.meaning?`<p class="example-meaning">${safe(w.meaning)}</p>`:''}<button type="button" data-voice="example" data-key="${safe(w.key)}">▶ 听例句</button></div>`:''}${w.note?`<p class="word-note">${safe(w.note)}</p>`:''}${masteryControl(w,done,pending)}</article>`;}
+function card(w){const pending=pendingMark?.key===w.key,done=pending?pendingMark.checked:Boolean(mastered[w.key]);return `<article class="vocab-card ${done?'is-mastered':''}" data-word-key="${safe(w.key)}"><div class="card-art">${artObserver?'':illustration(w)}</div><div class="card-copy"><div class="card-tags"><span class="unit-tag unit-${w.unit}">Unit ${w.unit}</span><span>${safe(w.category)}</span></div><h2 lang="en">${safe(wordForm(w))}${w.alias?`<small> / ${safe(w.alias)}</small>`:''}</h2><p class="word-meaning">${safe(w.zh)}</p><div class="voice-buttons">${w.wordAudio===false?'':`<button type="button" data-voice="word" data-key="${safe(w.key)}" aria-label="听词：${safe(wordForm(w))}">${w.audioWord?'▶ 听词组 '+safe(w.audioWord):'▶ 听词'}</button>`}${w.alias?`<button type="button" data-voice="alias" data-key="${safe(w.key)}">${safe(w.aliasLabel||'听另一种叫法')}</button>`:''}${w.unit===1&&w.art.kind==='unit1'?`<a class="practice-link" href="index.html?activity=word&amp;word=${encodeURIComponent(w.id)}">练这个词</a>`:''}</div></div>${w.example?`<div class="card-example"><p lang="en">${safe(exampleForm(w))}</p>${w.meaning?`<p class="example-meaning">${safe(w.meaning)}</p>`:''}<button type="button" data-voice="example" data-key="${safe(w.key)}">▶ 听例句</button></div>`:''}${w.note?`<p class="word-note">${safe(w.note)}</p>`:''}${masteryControl(w,done,pending)}</article>`;}
 function contextWords(){return filterWords(VOCABULARY,{...view,mastery:'all'},mastered);}
 function render(){
   const current=UNITS.find(u=>u.id===Number(view.unit)),unitWords=VOCABULARY.filter(w=>view.unit==='all'||w.unit===Number(view.unit));
@@ -41,6 +41,7 @@ function render(){
   artObserver?.disconnect();
   root.innerHTML=`<section class="drawer-intro"><div><p class="eyebrow">LISTEN · SAY · WRITE</p><h1>单词小抽屉</h1><p>先看图、听词，再用听写检查掌握情况。</p></div><div class="companion-pictures">${(current?[current]:UNITS).map(u=>unitArt(u)).join('')}</div></section>
   <section class="parent-marking" aria-label="家长听写标记"><div><h2>家长标记 · 听写掌握情况</h2><p>家长检查后确认掌握；听录音和做练习不会自动标记。每3个首次通过的词，可到贴纸册选择一位伙伴。</p><p class="storage-note">${cloudStatus()}${recordNotice?' '+safe(recordNotice):''}</p></div><div class="mastery-total"><strong>${unitDone}<small> / ${unitWords.length}</small></strong><span>${current?current.name:'全部单元'} 已掌握</span></div></section>
+  ${view.unit==='7'?'<p class="unit-scope-note">本单元共19个核心词条：运动与爱好10项、球类拓展与动作9项；动作词卡片可同时点读动词原形与 -ing 进行时。</p>':''}
   ${view.unit==='5'?'<p class="unit-scope-note">18个核心词与4个形状补充词；box / toy box、teddy / teddy bear 分别共用一个词条。</p>':''}
   ${view.unit==='4'?'<p class="unit-scope-note">19个核心词与7个食谱补充词分开分类；burger / hamburger 共用一个词条。eggs 在 Unit 3 中复习。</p>':''}
   ${view.unit==='1'?'<p class="unit-scope-note">本单元共28项：教室、文具与人物20项，位置表达4项，校园合作4项。按官方词汇页和词框整理。</p>':''}

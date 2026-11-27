@@ -1,7 +1,7 @@
 import {renderPokemonMap,showPokemonMapMoment} from './pokemon-map.mjs?v=8';
 import {eligibleStickers,stickerRewardState} from './sticker-rewards.mjs?v=1';
-import {VOCABULARY,RETIRED_VOCABULARY} from '../words-data.mjs?v=7';
-import {loadVocabularyVoice} from '../vocabulary-voice.mjs?v=2';
+import {VOCABULARY,RETIRED_VOCABULARY} from '../words-data.mjs?v=9';
+import {loadVocabularyVoice} from '../vocabulary-voice.mjs?v=4';
 import {starters,starterFor,eevee,evolutions,stageOf,pokemonForm,pokemonArt} from './pokemon-catalog.mjs?v=4';
 import {playPeelAndStickCeremony} from './sticker-fx.mjs?v=2';
 

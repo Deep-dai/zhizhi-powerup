@@ -1,10 +1,11 @@
 import {WORDS,EXTRA,RETIRED_CORE,RETIRED_EXTRA,identify,aid} from './content.js?v=11';
 import {FAMILY,BODY,BODY_ART,PICTURES} from './unit2-content.mjs?v=5';
 
-import {UNITS} from './units.mjs?v=5';
+import {UNITS} from './units.mjs?v=6';
 import {CORE as UNIT4_CORE,EXTRA as UNIT4_EXTRA,ART_RECTS} from './unit4/content.mjs?v=1';
 import {CORE as UNIT5_CORE,SHAPES as UNIT5_SHAPES} from './unit5/content.mjs?v=1';
 import {words as unit6Words} from './unit6/words.mjs';
+import {words as unit7Words} from './unit7/words.mjs';
 export {UNITS};
 
 const schoolEntry=w=>({unit:1,id:w.id,word:w.word,zh:w.zh,category:w.category,art:{kind:'unit1',item:w},example:identify(w,1,'full'),exampleMany:identify(w,3,'full'),wordClip:aid('word',w,1),wordClipMany:w.countable?aid('word',w,3):null,exampleClip:aid('identify-full',w,1),exampleClipMany:w.countable?aid('identify-full',w,3):null,plural:w.plural,countable:w.countable,note:!w.countable?'paper 表示纸，不加 a，也不直接加 s。':''});
@@ -53,5 +54,6 @@ for(const [id,s] of Object.entries(unit4Sheets))SHEETS['unit4-'+id]={...s,base:'
 const four=[...UNIT4_CORE,...UNIT4_EXTRA].map(w=>{const s=unit4Sheets[w.sheet],width=s.width/s.cols,height=s.height/s.rows;return {unit:4,id:w.id,word:w.word,alias:w.alias,zh:w.zh,category:w.category,art:atlas('unit4-'+w.sheet,ART_RECTS[w.sheet]?.[w.index]||[w.index%s.cols*width,Math.floor(w.index/s.cols)*height,width,height]),example:w.example,note:w.note};});
 const five=[...UNIT5_CORE,...UNIT5_SHAPES].map(w=>({unit:5,id:w.id,word:w.word,audioWord:w.audioWord,alias:w.alias,zh:w.zh,category:w.category,art:{kind:'image',file:'unit5/assets/'+w.id+(w.shape?'.svg':'.webp')},example:w.example,note:w.note}));
 const six = unit6Words.map(w => ({...w, unit: 6, art: {kind: 'image', file: 'unit6/art/' + w.id + '.webp'}}));
-export const VOCABULARY=[...one,...extras,...two,...animals,...adjectives,...feelings,...products,...reading,...four,...five,...six].map(w=>({...w,key:'unit'+w.unit+':'+w.id}));
+const seven = unit7Words.map(w => ({...w, unit: 7, art: {kind: 'image', file: 'unit7/art/' + (w.artId || w.id) + '.webp'}}));
+export const VOCABULARY=[...one,...extras,...two,...animals,...adjectives,...feelings,...products,...reading,...four,...five,...six,...seven].map(w=>({...w,key:'unit'+w.unit+':'+w.id}));
 export const CATEGORIES=Object.fromEntries(UNITS.map(u=>[u.id,[...new Set(VOCABULARY.filter(w=>w.unit===u.id).map(w=>w.category))]]));

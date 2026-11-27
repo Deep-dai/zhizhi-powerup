@@ -1,5 +1,5 @@
 import './cloud-ui.mjs?v=2';
-import {UNITS,unitArt} from './units.mjs?v=5';
+import {UNITS,unitArt} from './units.mjs?v=6';
 
 const base=new URL('.',import.meta.url),url=path=>new URL(path,base).href;
 // Sites serves these documents without an .html suffix. Keep the filenames
@@ -31,6 +31,7 @@ function refresh(){
   rail.querySelectorAll('[data-site-mode]').forEach(a=>{const active=a.dataset.siteMode===(isWords?'words':isStickers?'stickers':'course');a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
   rail.querySelectorAll('[data-site-unit]').forEach(a=>{const id=a.dataset.siteUnit,active=id===current&&!isStickers&&!isFamily;a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');const progress=a.querySelector('.site-unit-progress');const data=stats[id];progress.textContent=isWords&&data?`${data.done}/${data.total}`:'';progress.setAttribute('aria-label',data?`已掌握 ${data.done}，共 ${data.total} 个词条`:'');});
   bar.querySelector('.site-mobile-context strong').textContent=isStickers?'星光贴纸册':isFamily?'家庭账号':isWords?(current==='all'?'全部单元 · 单词':unit.name+' · 单词'):unit.name+' · '+unit.companion;
+  if(!mobile.matches)setTimeout(()=>rail.querySelector('.site-unit-link.active')?.scrollIntoView({block:'nearest'}),60);
 }
 function filterUnits(){const norm=s=>s.toLowerCase().replace(/\s+/g,'');const q=norm(search.value);let visible=0;rail.querySelectorAll('[data-site-unit]').forEach(a=>{const match=!q||norm(a.dataset.search||'全部单元 all').includes(q);a.hidden=!match;if(match)visible++;});rail.querySelector('.site-unit-empty').hidden=visible>0;}
 function setClosedAccessibility(){rail.inert=mobile.matches&&!opened;if(mobile.matches&&!opened)rail.setAttribute('aria-hidden','true');else rail.removeAttribute('aria-hidden');}

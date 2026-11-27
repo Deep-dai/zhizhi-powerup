@@ -1,0 +1,1710 @@
+[
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "music",
+    "file": "gemini-999c91c48c2a995b.mp3",
+    "duration": 1.641,
+    "sha256": "3a69023909aa2ae6da5694505c78628bbac40f96923c63803479a5f18554a958",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "listen to music",
+    "file": "gemini-fc7eda4501ac5384.mp3",
+    "duration": 3.002,
+    "sha256": "f24e47be7236094191551fedaeefcf75beed0b678370b3b4f309f52fafe93699",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "She's listening to music.",
+    "file": "gemini-b7e5509137da0698.mp3",
+    "duration": 4.481,
+    "sha256": "02fff5be38fc06df34f2257d5d2b58d2d800c86d6e794df1bc0c7dc2cfcc2cf2",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "play basketball",
+    "file": "gemini-b7d908097e195ed3.mp3",
+    "duration": 2.282,
+    "sha256": "5d77d5c9786e7fa4f07e2441e440ebc2182f5e95d0913f0813fcb15cf0a358fa",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's playing basketball.",
+    "file": "gemini-a6dd19ac33edcbdd.mp3",
+    "duration": 3.362,
+    "sha256": "f5e3999fd63b2875fb3eb4deb0d7ff988689dcbee0aa74fe9ae6236af4532829",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "play football",
+    "file": "gemini-ed073e5e2a359a90.mp3",
+    "duration": 2.402,
+    "sha256": "519d86fb7ca0ace0229d4b5c93bb69c0b38c19fc6ad93449cd2467ab127ac213",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "play soccer",
+    "file": "gemini-0b1a370d228df93a.mp3",
+    "duration": 2.601,
+    "sha256": "c6a2b412833ac15922aaa369f7664e49c9c29efcbd10d398d5d26a0fd30daf17",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "She's playing football.",
+    "file": "gemini-f1dd50e4844975db.mp3",
+    "duration": 2.361,
+    "sha256": "64f0fce1d5286450763072f1c9cd24bde36eec39a5dadbc60d144f41944edc35",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "play tennis",
+    "file": "gemini-2e25c495b45e62f2.mp3",
+    "duration": 2.642,
+    "sha256": "de50a647672473de9c9a20f1e40c2c50f77f3d6f25ae516e52f7ab1bd4ec07e7",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "She's playing tennis.",
+    "file": "gemini-fad9a196e932db76.mp3",
+    "duration": 2.721,
+    "sha256": "9dc2dd6d65b2abc0a03017aacefd1d51990b2c8814cb5ef4d338a1a61611c33a",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "play the guitar",
+    "file": "gemini-88ea948ee3a353d7.mp3",
+    "duration": 2.921,
+    "sha256": "4c0ae358086e53d2c201c2970477a51b403f70ca1053fc32f4e76b6841c2b6d7",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's playing the guitar.",
+    "file": "gemini-e1d96930bcca87af.mp3",
+    "duration": 2.441,
+    "sha256": "b77e58c1a6fda7c3d949a8ce78688b042b5bf454df511251bf5f135298e3bf4f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "play the piano",
+    "file": "gemini-4ff692d67eb5728d.mp3",
+    "duration": 3.081,
+    "sha256": "96609bb16d4d722e7afa6897f61bd69f427051969ea1351faf6cc4b8e2824f91",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "She's playing the piano.",
+    "file": "gemini-ae48e8cda172d553.mp3",
+    "duration": 3.242,
+    "sha256": "7533087caea5421cbfa8ff90671a21450b70b2b19d68f2ea21aa86c8da029d78",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "ride a bike",
+    "file": "gemini-2cb71199ccc1795d.mp3",
+    "duration": 2.721,
+    "sha256": "85d6e69d53719110c4d08c42b1c2b6d14d8847e0d5f064c7c803d3dfbf55581b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "riding a bike",
+    "file": "gemini-0b6552338b9d6218.mp3",
+    "duration": 2.642,
+    "sha256": "ac6c06b623dbf2a11c91e844fe76b6fa503068d30c9e0ede0360c8ce1236dd95",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's riding a bike.",
+    "file": "gemini-d583d2d6b96475de.mp3",
+    "duration": 2.282,
+    "sha256": "2feef73bf92d9bd82f080d814c1901c0fbad8b2a21008cb604a25e514e121e61",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "sport",
+    "file": "gemini-bf30511fcfa5d5b0.mp3",
+    "duration": 1.922,
+    "sha256": "e4ed2c9bb46f6c82a8d3a15b63407f871e4aa57ff027af0652da737ae8b4f3a2",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "sports",
+    "file": "gemini-98091ea2d2c5c09e.mp3",
+    "duration": 2.081,
+    "sha256": "07cba0855f20b7e525828323b8e7b228130eba12384bb097fc7f28146d89e3e9",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Let's do sport every day.",
+    "file": "gemini-3002ec7e0a9929eb.mp3",
+    "duration": 3.761,
+    "sha256": "fef094d8e16f6309ae72f64fa0f1f66fa4144a7bd0dfb9865984abb8596683ec",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "swim",
+    "file": "gemini-30bd018a4a7a05b7.mp3",
+    "duration": 2.321,
+    "sha256": "0e2d883ac85d099741d407095d7063ced5be4c32e77fa6dfc262c4b866f2c680",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "swimming",
+    "file": "gemini-0ff0ecf8e2db2593.mp3",
+    "duration": 1.961,
+    "sha256": "c06bebc2a06de05bd2720e301fee8a135a8ee378a6092d981c70b1fcfc116f28",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "She's swimming.",
+    "file": "gemini-8b299b08c0bafecb.mp3",
+    "duration": 2.441,
+    "sha256": "b678df60bb1b2a6b81c9f9999265a5eed103002bdad2addd19d8ed832bb7a102",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "television",
+    "file": "gemini-ae991d08cb127440.mp3",
+    "duration": 1.562,
+    "sha256": "a6dcbe5d894b064514d2c45c729b389e1a3cf51d552d90a5046649636dbe4285",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "TV",
+    "file": "gemini-9789db4598522eed.mp3",
+    "duration": 2.282,
+    "sha256": "ba529e949aee319ac00665aad266991fb23ba577e313c7a293e43449d1b0d836",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's watching television.",
+    "file": "gemini-ce62abf157a0e806.mp3",
+    "duration": 2.201,
+    "sha256": "2fb7f1654275e118a20f6e72f4cd5f9e03cd672cef6ec3f6a5417b236f42540e",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "badminton",
+    "file": "gemini-1914a444c47b00c0.mp3",
+    "duration": 2.001,
+    "sha256": "8b865f3f80a3b7de8fbe69add3e460022217073b1fc62ea46a35f4f4b10325b8",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "They're playing badminton.",
+    "file": "gemini-45e58e6aa02b19d1.mp3",
+    "duration": 2.642,
+    "sha256": "fbdddc9f49aaeedb6b98e889a67fcbd5a62d296050d96a59151cb75a35501247",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "baseball",
+    "file": "gemini-1cbf644da73a20b0.mp3",
+    "duration": 2.001,
+    "sha256": "de0892ac99b835373212f7e4d6cb8aeae4104b02ed830de5410e2d4f894c351b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "They're playing baseball.",
+    "file": "gemini-0c7040ba57a9d0cd.mp3",
+    "duration": 2.361,
+    "sha256": "8b708218b893294271703691f0bb67f2e14e1d127cfc709cea6566e95742b226",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "catch",
+    "file": "gemini-1ec88fb5f3804c7a.mp3",
+    "duration": 1.802,
+    "sha256": "98bdf89dc447a704b968e031b8565e0bd9eb321a8f4059b924bea02cbb2eee9a",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "catching",
+    "file": "gemini-edf69fde4b983b58.mp3",
+    "duration": 1.922,
+    "sha256": "65ea90f47d3921a846052df2cdf91878b84cfecc4c4e6a199445d75a5fd8822f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "She's catching the ball.",
+    "file": "gemini-aaffb4898853b5f5.mp3",
+    "duration": 3.801,
+    "sha256": "d3b98f2362dc98a5a3c80f1219b5266db37c1a3144839d6f225c67b467eb75e4",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "hit",
+    "file": "gemini-5f25a564fc5f7394.mp3",
+    "duration": 1.721,
+    "sha256": "a2a001d1872b7c24a46e3adf1591b1d4c233b65ff783042dfc55c8f4f835ac8b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "hitting",
+    "file": "gemini-0ef02602eff3b259.mp3",
+    "duration": 1.481,
+    "sha256": "5b65fea876402fe52c18e37b7a771d72f08791af61ae337122ca1f1c9e0cdfd2",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's hitting the ball.",
+    "file": "gemini-b27be8f9554d3b3c.mp3",
+    "duration": 3.641,
+    "sha256": "608a55bf0d83c9050fd3d4d93c6052a380c966da2f00b3bdaad0ae515070d17c",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "hockey",
+    "file": "gemini-f998c50b0cddec11.mp3",
+    "duration": 1.961,
+    "sha256": "ccbbff1958549552a4ce978c1d2412cb8dd46f9c49fab9d9c69e6b90900e10d1",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "They're playing hockey.",
+    "file": "gemini-3f00a3bc5e1965e5.mp3",
+    "duration": 2.121,
+    "sha256": "36603b399950b49dc7625f217cd7ed32e462885a3ccaed33458cd2105fce9da1",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "kick",
+    "file": "gemini-807aac32dc1fcefd.mp3",
+    "duration": 1.562,
+    "sha256": "521b05d8c2a82df9eacee8b90337b119e9513d07fc017b42d4c62b2c13b88210",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "kicking",
+    "file": "gemini-c9a6d06c681a533d.mp3",
+    "duration": 1.442,
+    "sha256": "3a31b2e54212f07ee6b62bb706e99db375f935c22b450947c88ca8cd4f2a5489",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's kicking the ball.",
+    "file": "gemini-2c375837560f381e.mp3",
+    "duration": 3.201,
+    "sha256": "6b99a225ad205c042f1f685fbe0242b742c9964170307a5d52ae43e8f8f0d451",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "run",
+    "file": "gemini-20ad3aed2f1e9785.mp3",
+    "duration": 1.281,
+    "sha256": "4376f243aa519f5e174a30613ee799bab73970a69740c9caba011ed63f05ace0",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "running",
+    "file": "gemini-1ee682677e3ee5a0.mp3",
+    "duration": 1.802,
+    "sha256": "05aa0e809ac85347c546cbf27f86a358b13951c9a7c4eee6cf84cc3791e1bcb7",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's running on the track.",
+    "file": "gemini-13bd40597801c8ab.mp3",
+    "duration": 2.801,
+    "sha256": "4d918f7d133efda61a684347552289432bbc9d5e3d4320cc010720516fa74522",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "skateboard",
+    "file": "gemini-56290e5510dd0833.mp3",
+    "duration": 2.441,
+    "sha256": "873eaee80d8eecd0a0efed86cb4ac51d35868f0c89aee4aeca1f7a3d8f5eb38b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "skateboarding",
+    "file": "gemini-fc58ba52d2a338b2.mp3",
+    "duration": 2.121,
+    "sha256": "4d78f603213dcff0e6b0f7f9fc94465a00bae4e44f2ffc75fd6c9729415f63f9",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "She's skateboarding.",
+    "file": "gemini-3aacdade4b4e21e0.mp3",
+    "duration": 2.361,
+    "sha256": "36fdfa140a077450a411bb58c7c31bc4c6f181fba01c73386e8f5975a4920204",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "throw",
+    "file": "gemini-3a622f7b65decf71.mp3",
+    "duration": 1.562,
+    "sha256": "99db06d5386b7387a3f15251ab3497337909776d0a264207c33df613909e70e3",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "throwing",
+    "file": "gemini-1fd6cec72c2130de.mp3",
+    "duration": 1.601,
+    "sha256": "d36e3a63398fc9dff51021b72d89942c6c829274a0a22a4fef1a1bfc139d85b6",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's throwing the ball.",
+    "file": "gemini-26ac8dec3d8ec9d3.mp3",
+    "duration": 2.681,
+    "sha256": "e3d5872924d1657363a8886b980f913b3a01ee576c50034f09f090e6e755bd9a",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "play",
+    "file": "gemini-5c9240d806a4bc84.mp3",
+    "duration": 1.481,
+    "sha256": "9a56577012abc01c97ae82192cc5fbba9b885cb4b97f613ad8dd8e59c2fd5822",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "ride",
+    "file": "gemini-780000200937706e.mp3",
+    "duration": 1.481,
+    "sha256": "095dfeb72415c7e98e0eedb77a64844ef4a4b05823ff949f04d435f0fba08267",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "What's he doing?",
+    "file": "gemini-3dbb5f008896a49a.mp3",
+    "duration": 2.282,
+    "sha256": "5ab3e1abbc0141673d742ddbeadc8392aad1fd58b968f2986e19539ce280dd21",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "What's she doing?",
+    "file": "gemini-322a9fc99e86c767.mp3",
+    "duration": 2.042,
+    "sha256": "5a03eac946d03dc99bafe827e18fec7e1b16737d2785b9916707d8e8e78aa398",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "What are they doing?",
+    "file": "gemini-e29be25817f2a5f4.mp3",
+    "duration": 2.601,
+    "sha256": "c4d570e7fcaa4cdf5d2484d3ceff873997aedf2191910fd2553f751001c18f28",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "What are you doing?",
+    "file": "gemini-8d94d31b666c9c1f.mp3",
+    "duration": 2.402,
+    "sha256": "88ea46d7edef6db059fc41782c1ed0b89f691c6c617201ca01b4ba2e40430770",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "I'm playing the guitar.",
+    "file": "gemini-7cc7dddc439ea856.mp3",
+    "duration": 3.201,
+    "sha256": "8ed00a22c23540d835dd1fc51bb2bef9501cb410f6a628c7cd29ffb316e7cf07",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Look! She's catching the ball.",
+    "file": "gemini-9e379d648251ccb1.mp3",
+    "duration": 3.002,
+    "sha256": "c17693453e04737521d5d85c1a87ad1cfd2f6e90008b2f94f136bd57032caa17",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Look! They're playing hockey.",
+    "file": "gemini-2e1be6c783315e5d.mp3",
+    "duration": 3.362,
+    "sha256": "fc90725c2ab535e8098f91548e1c605a1b2aa7b3c327609421bc5980200f2674",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Look! He's throwing the ball.",
+    "file": "gemini-24c1db818a650529.mp3",
+    "duration": 3.041,
+    "sha256": "3b657674809cabc024413613396e44dbac9ff5e04ea1188df6854937ef1d33fa",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's swimming.",
+    "file": "gemini-a717b42300cf1eee.mp3",
+    "duration": 2.481,
+    "sha256": "e803edd877a7f0eb33fc6da2bdd03b03f81111582eca597a3a10542e294cfa34",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's playing baseball.",
+    "file": "gemini-87a572ef2e8d53ac.mp3",
+    "duration": 3.081,
+    "sha256": "46b2aec5ff4f5c31c382bdab44af438e34defa3e5461487d541a26ca0088e8d8",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "I'm playing the piano.",
+    "file": "gemini-e99ab6d8c3d1357f.mp3",
+    "duration": 3.281,
+    "sha256": "efa07d9cecc119a49d2dcf00a5d76406bc4ba954f11c0e5cf9c2c183af5da595",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Are they playing badminton?",
+    "file": "gemini-06688a5d85520aec.mp3",
+    "duration": 2.201,
+    "sha256": "e7e644d0d40c49409485918abb6641d12c5fc407001e54cb47dc3a54033414f5",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Yes, they are.",
+    "file": "gemini-8ffe9e541a39e28a.mp3",
+    "duration": 3.002,
+    "sha256": "c7708f6ca7b942b49f2d636891b5d396c25718da8d56c81b56708a99acf29a24",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "No, they're not.",
+    "file": "gemini-a592ad56d639a219.mp3",
+    "duration": 1.961,
+    "sha256": "9f3ccafd96867fe9f1b4e7e4af9adbc3417cf3a35c8a94a65b7a048fe765ff4d",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Yes, he is.",
+    "file": "gemini-116e72aeccc18733.mp3",
+    "duration": 2.681,
+    "sha256": "9c0b74cc6082997dc97d4f03c9b4256697eacf584e542b28bb64f25c214b95c9",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Is she playing football?",
+    "file": "gemini-b826f61bfc2e26a4.mp3",
+    "duration": 3.081,
+    "sha256": "cc9a6b70148d70c7cc612f0db41ba7f0a597aedcc9c0a6cea069810ef30a7954",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "No, she isn't.",
+    "file": "gemini-e2554eb29110d8a3.mp3",
+    "duration": 3.002,
+    "sha256": "cbf35e82854625eada557af6fc9c318ff29c1571ce0a08ab4cf65abaccbf5c7f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Yes, she is.",
+    "file": "gemini-08d0459f98b2eb4a.mp3",
+    "duration": 1.961,
+    "sha256": "5eecd5a898bd162711f3dea5cf2b074d2465c8d1474173f5ca98f07e69a92cc1",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Are they playing baseball?",
+    "file": "gemini-7dd2afc9debdee1b.mp3",
+    "duration": 3.041,
+    "sha256": "51156787743b3d3e14ac3ad1ef47f7c86e4e8509e7298ae37b8ae57f09be4edd",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "No, he isn't.",
+    "file": "gemini-1da8e2819630211e.mp3",
+    "duration": 2.282,
+    "sha256": "c28b38ba0f861bbce23a7056f845f86b11c5155b6df0d3e865a3ebe6af50c00f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Is he riding a bike?",
+    "file": "gemini-2bbe483d3ca0006e.mp3",
+    "duration": 3.921,
+    "sha256": "db0dd5149f8da5c86ee0bb7ccb88f1974dbaf971a99c338ba9b2d67b8e0a4c71",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Is she running?",
+    "file": "gemini-079c6eaa92962325.mp3",
+    "duration": 2.001,
+    "sha256": "e3ea70901dc16e29d5c18ac5bf0db972161ceb3d52fe8184843e6ada545c28fd",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Can we play basketball?",
+    "file": "gemini-2e3367faf67b6772.mp3",
+    "duration": 2.882,
+    "sha256": "b0b9088a37ba2069414351e59266b19c9b63d180a064ccd13d394845452f295c",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Yes, you can, but you can't play here.",
+    "file": "gemini-6ff4876ea9695d4c.mp3",
+    "duration": 3.881,
+    "sha256": "3617918c2b9432658ac5996b78090763eeeb279524755bb4992a801c8653b82c",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Can we play football in the park?",
+    "file": "gemini-342e609b5453e434.mp3",
+    "duration": 2.961,
+    "sha256": "b7baf2eecc6dc3b21623a556c1349f88bde5458eac50ac6825e6575e09e47b5a",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Yes, you can.",
+    "file": "gemini-772bf6271f898b3a.mp3",
+    "duration": 2.121,
+    "sha256": "6364c20dc441b52861e28a485a3356e6e61dd55686e4d4797a95adf3427bbb65",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Can I skateboard by the pool?",
+    "file": "gemini-e3225e3e242b51c8.mp3",
+    "duration": 3.722,
+    "sha256": "e579735727f70f4679dd4468dd3cff82379fce7163899cf167d4049b432a83a4",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "No, you can't.",
+    "file": "gemini-b0fa491c0da43f82.mp3",
+    "duration": 3.281,
+    "sha256": "a02078ed0a813365d63093eb1591c8e2c2ea5d42d0cd4679201fb5d1427fd36f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Can we play football?",
+    "file": "gemini-001a7a827e8e9fa5.mp3",
+    "duration": 3.242,
+    "sha256": "e8d884a6aac74e306de79bf5edcc0c787315534bedc2e52161af741ce0ea1cd2",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Yes, you can. Play in the room.",
+    "file": "gemini-bdb5c7807daa85e4.mp3",
+    "duration": 3.041,
+    "sha256": "ccb05d8d70dbe682d12713300c1611c07f08a4d7d88c3ef1dbfcf56ff95080c9",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Can we play tennis here?",
+    "file": "gemini-67f3e2f080d4fb53.mp3",
+    "duration": 3.602,
+    "sha256": "a05764dfac8aefac96ecce0f8ead3b6cd9e35516c00a7ff55b3fc5b0673faebc",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Can I ride a bike by the pool?",
+    "file": "gemini-f380fd2c9a1aa75e.mp3",
+    "duration": 3.321,
+    "sha256": "f2d3c0355e022136e537990ff5a388805cc4f9f861f089b1231dffa03860403b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Can I play the piano?",
+    "file": "gemini-f0e47b36b0e632af.mp3",
+    "duration": 3.041,
+    "sha256": "46e5e37847ac67e474524de448b1b52885e518ad51e387d19b292e81ee75d564",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Can we go to the park?",
+    "file": "gemini-d378f0646db3cc9b.mp3",
+    "duration": 2.321,
+    "sha256": "58061cf672671a45ceece3b7ec4d0322d8300f74d966996c92b7c106b1130b63",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Do sport every day.",
+    "file": "gemini-d8a7f2b89a105ef7.mp3",
+    "duration": 3.482,
+    "sha256": "02c9558996fb152c63b7ba0aba17d54e576bbdada27e3d3a2f9efe9a1124fd19",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Drink water after sport.",
+    "file": "gemini-190f0852432e07d8.mp3",
+    "duration": 3.401,
+    "sha256": "ddf343f853a8071b245a8cde10da23128d30ca93158534a3d6346e553f51cad8",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Sleep well every night.",
+    "file": "gemini-5754729252c3e357.mp3",
+    "duration": 3.441,
+    "sha256": "4456ef01f7a66146f6cb500b023aecaa97e6fc685505a4eb68f9c05613479b0c",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "six",
+    "file": "gemini-776ff210b2995590.mp3",
+    "duration": 1.601,
+    "sha256": "d49862456d78c04a25fc95d853af8e3a46ccefe3aa1686708c7a19aa4cce08d5",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "shop",
+    "file": "gemini-8e05407edb4b4840.mp3",
+    "duration": 1.761,
+    "sha256": "19b4a9eaf3b394705b887730230cc467bdfc17f524e95eb313ee250c66f0fff8",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Let's plan a sports day!",
+    "file": "gemini-b50e00a28b49327c.mp3",
+    "duration": 2.882,
+    "sha256": "0c901fce71e91b485f61b367647aa7309eab50dca833ca61e3e240416d2620de",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Station one: They're playing badminton.",
+    "file": "gemini-831f64bd3fc2203c.mp3",
+    "duration": 4.761,
+    "sha256": "66c9834e5c9e7d5e2d758c82bbbe8a6c319f3ee34d1a6813450f8a2155de1b0c",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Station one: She's playing tennis.",
+    "file": "gemini-951d28d3b35a1df9.mp3",
+    "duration": 4.241,
+    "sha256": "f67bf3c3a4aa8de1cf2638ae33f8e89b1432b59d20cb146fc13ed6a0a6115140",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Station one: They're playing hockey.",
+    "file": "gemini-b27a7b1888b7b0ae.mp3",
+    "duration": 3.962,
+    "sha256": "0df5988c13e5fe4e2a8e71bfc07418d81c69e8c3dbb770d7924c0fd7d5ee2b60",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's playing badminton.",
+    "file": "gemini-341cbc5e114b8a03.mp3",
+    "duration": 2.601,
+    "sha256": "e013405be00986d3534b0c66675480c868812a2e05047bdcf42e04f77d4a7906",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "She's playing badminton.",
+    "file": "gemini-1919b4459f1973a6.mp3",
+    "duration": 3.321,
+    "sha256": "8ae18bb3a645b2995f02aa509c05a550a05cdbd1383b95f1efdf4c3ce1a5ea07",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's playing tennis.",
+    "file": "gemini-b87dcc1b6a214e0f.mp3",
+    "duration": 2.481,
+    "sha256": "c016b3a7a6a81ef27e85e50c333cf758882fa108c34f93968e5ce41799e70c6a",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "They're playing tennis.",
+    "file": "gemini-02be9ede5452e473.mp3",
+    "duration": 3.081,
+    "sha256": "301b96a52e20da0a13f9ca1bb3a1304e03ccb0b0a1debf6fc61fcf26406b9716",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's playing hockey.",
+    "file": "gemini-b279176114f86b2d.mp3",
+    "duration": 2.561,
+    "sha256": "0595e5ec8bbbdeff7de7bdc2f3a5f7598e88fb4402bf38c65145f4326d67e3d7",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "She's playing hockey.",
+    "file": "gemini-a7a9a648b6b14bf9.mp3",
+    "duration": 2.882,
+    "sha256": "7a495353f211f2d298e8f1075e5162a14f49e2721ce81d874fb5eabb99e71fb8",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "She's playing baseball.",
+    "file": "gemini-33345830b18f00bb.mp3",
+    "duration": 2.841,
+    "sha256": "54c9e416c7d2645e0444aabe189974fa2467cc39cadcbae27656d3b158923262",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "She's playing basketball.",
+    "file": "gemini-33dbba5570818d4e.mp3",
+    "duration": 3.362,
+    "sha256": "70075e79d835e25d83ee59a1ef6a067d1df6b6c58fc69ea3d277865c40af69d1",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "They're playing basketball.",
+    "file": "gemini-278255b549f77304.mp3",
+    "duration": 2.402,
+    "sha256": "6d4519a8e88b9613b67c840d495afe7f303aa7b6cfcd4b74736238597c39f337",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's playing football.",
+    "file": "gemini-90d51cf883fac7ba.mp3",
+    "duration": 3.321,
+    "sha256": "a8214972a7e6f3fc9c558a078e9386af6409963b21cddcbd228d4a0443a457ed",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "They're playing football.",
+    "file": "gemini-df980f492ffd1480.mp3",
+    "duration": 2.921,
+    "sha256": "1ee1cc497f82731a8d28c92fa56b398faae5277fed7ff69179d164001b0e1ef6",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "They're swimming.",
+    "file": "gemini-31b25be09f5533d9.mp3",
+    "duration": 2.201,
+    "sha256": "39f9bb64433ea03adc766c0ea638202c7059e29daac3723faa3b1a509aaeff5f",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "She's running on the track.",
+    "file": "gemini-51ff0ce92642bae0.mp3",
+    "duration": 2.841,
+    "sha256": "2fb68e8791629c199ecd79a085b2a7f329777c5af41a5ab1b9b505bf1197f249",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "They're running on the track.",
+    "file": "gemini-26322cdf3794c26b.mp3",
+    "duration": 3.602,
+    "sha256": "c689a403bfc7294b6877f08dd55f9fa71f2440a62105229b301165a4bc6a3b77",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's skateboarding.",
+    "file": "gemini-143e2747b5d16179.mp3",
+    "duration": 2.441,
+    "sha256": "d661c5061b38e9d21eb605087895570db008bc88b3f58c9fd7ee7ad08f779e8b",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "They're skateboarding.",
+    "file": "gemini-26ab926b3b76d22c.mp3",
+    "duration": 2.762,
+    "sha256": "a3167d73233fe4ea77892a24b67ac2c989b44f1a023d1aa712a7d8ed587a21e5",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Leo and Mia are playing football in the park. Sam is watching.",
+    "file": "gemini-eac006987dc4f0f0.mp3",
+    "duration": 6.081,
+    "sha256": "26165322ccbdc2b0946464b41b02a454c34bb20fb8fc2f59033ca40627380bbf",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Oh no! Look at the ball! Sam is running. He's catching the ball by the water!",
+    "file": "gemini-0919c286b6d196dd.mp3",
+    "duration": 9.602,
+    "sha256": "347a5b779b92d7eeec865e1effa73da4ae79f5aceac4a0fe0a6aa9c6201ab81d",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Thank you, Sam! Can you play football with us? Yes! Let's play together!",
+    "file": "gemini-45047167c91d5e7e.mp3",
+    "duration": 6.561,
+    "sha256": "404bafed38ca5af33b6e8754cc7734093ab6515aef27aeb255b04e68fee62d76",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Now they're playing football together. Sam helps his friends. He's a good friend!",
+    "file": "gemini-19652e9f2fbad660.mp3",
+    "duration": 8.882,
+    "sha256": "f5753b43ed39ed5819c96d206e8471edac2431339248d888f0647dd40f833912",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "What's Sam doing by the water?",
+    "file": "gemini-011d2aaef057900d.mp3",
+    "duration": 2.961,
+    "sha256": "708396a7b7df829892ca218bcf622393804422fff545788bcaf2f0ecde9d9a4d",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "He's catching the ball.",
+    "file": "gemini-ff515428054296ec.mp3",
+    "duration": 2.882,
+    "sha256": "5b00922d4933e5b00d286cd245484b4580df6ea1f0d382a88068f381de720557",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Can Sam play football with Leo and Mia?",
+    "file": "gemini-68a3374bbd9719bd.mp3",
+    "duration": 4.481,
+    "sha256": "a84a3bd430941f24c7f3679eb1b18cad58665cae15d5b5b9225304fd71959ad6",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Yes, he can.",
+    "file": "gemini-e4d541817c55faf6.mp3",
+    "duration": 2.441,
+    "sha256": "49724064eff83741e50a0d7bba20deff6e9390cda2a500422c50b80c0b4693f5",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "I help my friends.",
+    "file": "gemini-9ef09066b6908cf5.mp3",
+    "duration": 3.081,
+    "sha256": "8f6bc001d616111ede9e1afeab5d0413580fb73805bb2c0c2b0b14cf9386efbf",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Let's play together!",
+    "file": "gemini-62ea9c3f6b055c1a.mp3",
+    "duration": 2.841,
+    "sha256": "a144203cfc839a29a8d856190f31d66edd3462e334629a43a7dd65a8848741d8",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  },
+  {
+    "lang": "en",
+    "model": "gemini-2.5-flash-lite-preview-tts",
+    "voice": "Sulafat",
+    "languageCode": "en-GB",
+    "text": "Can you play with us?",
+    "file": "gemini-2b456b3f317ae1c0.mp3",
+    "duration": 1.961,
+    "sha256": "44d3ca3f925320e2218e8646ad6eef02fad9afb767b0f1e26fc324e39e872cd8",
+    "guardPaddingMs": {
+      "leading": 250,
+      "trailing": 300
+    }
+  }
+]

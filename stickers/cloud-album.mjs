@@ -1,6 +1,6 @@
 import {eligibleStickers} from './sticker-rewards.mjs?v=1';
 import {pokemonReward} from './pokemon-catalog.mjs?v=4';
-import {VOCABULARY,RETIRED_VOCABULARY} from '../words-data.mjs?v=7';
+import {VOCABULARY,RETIRED_VOCABULARY} from '../words-data.mjs?v=9';
 import {sfx,playPeelAndStickCeremony,createStardustMarkup} from './sticker-fx.mjs?v=2';
 const cloud=window.PowerUpCloud,catalog=window.STICKER_CATALOG,art=window.renderStickerArt;
 const $=s=>document.querySelector(s),byId=id=>catalog.find(c=>c.id===Number(id)),byWord=new Map([...VOCABULARY,...RETIRED_VOCABULARY].map(w=>[w.key,w]));
